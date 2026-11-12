@@ -28,6 +28,9 @@ Pełny opis jest w `README.md` i w katalogu `swiat/`. Jeśli są ze sobą sprzec
 - Pokazuj, nie oceniaj: świat ma bronić się sam, bez moralizowania narratora.
 - System nie jest kreskówkowo zły. Działa przez wygodę, nawyk i przyzwolenie.
 - Opór nie jest jednoznacznie dobry; postaci mają wątpliwości i koszty.
+- Droga do 2033 była stopniowa: nie wymyślaj przełomowych wydarzeń ani jednej daty „kiedy wszystko się zmieniło”, tylko drobne, banalne kroki.
+- Korporacje mają nazwy. Występują zarówno prawdziwe firmy, jak i wymyślone (np. [Lumen](frakcje/lumen.md), [Kredo](frakcje/kredo.md)); wymyślone pojawiają się w historiach częściej.
+- System toleruje legalne stowarzyszenia samopomocy i zarabia na buncie przeciw sobie: sprzedaje uzależnienie, a potem wychodzenie z niego. Granica między autentycznym ruchem a produktem bywa niejasna.
 - Przemoc i sabotaż opisuj na poziomie narracji i konsekwencji, bez technicznych instrukcji (jak zbudować, jak włamać się krok po kroku).
 
 ## Struktura repozytorium
@@ -48,6 +51,7 @@ szablony/        – szablony stron (nie edytuj bez prośby)
 - Pliki: małe litery, bez polskich znaków, myślniki, np. `postacie/anna-wrona.md`, `frakcje/klub-szachowy-gambit.md`.
 - Każda strona zaczyna się od frontmattera z szablonu (`typ`, `status`, `powiazania`).
 - Linki tylko względne: `[Anna Wrona](../postacie/anna-wrona.md)`.
+- Miasto jest celowo bezimienne: zawsze „Miasto” wielką literą, bez nazw prawdziwych miast. Dzielnice i ulice mogą mieć własne, wyraziste nazwy, ale nie takie, które kojarzą się z popularnymi dzielnicami dużych polskich miast (np. unikaj „Mokotowa”, „Nowej Huty”, „Śródmieścia”, „Pragi”). Nowe nazwy trafiają do `kanon/slownik.md` jako `(szkic)`.
 - Jedna strona = jeden temat. Jeśli strona przekracza ok. 1500 słów (nie dotyczy historii), zaproponuj podział.
 
 ## Sposób pracy przy każdej nowej treści
