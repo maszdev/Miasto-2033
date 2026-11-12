@@ -15,11 +15,11 @@ Przewidywał, że postęp technologiczny doprowadzi do powstania rozbudowanych o
 Miasto jest oczywiście częścią Świata więc podlega wszystkm globalnym tendencjom. Nakładają sie na to mechanizmy specyficzne dla dużych skupisk miejskich - popularne stały się tzw. "smart cities": *Internet of Things*, wszechobecne kamery i czujniki. Generują one Petabajty danych, które są gromadzone i przetwarzane. Używane są one przez Sztuczną Intelgencję, która dostarcza wiedzy o mieście i jego mieszkańcach, ale przede wszystkim pozwala je (miasto i ludzi) kontrolować, kształtować procesy zachodzące dookoła, odciska piętno na każdym aspekcie życia. 
 
 ## Ludzie
+Globalne tendencje związane z kształtowaniem się procesów społecznych na poziomie Świata i Miasta mają odzwierciedlenie postawach jednostek:
 
-
-- powszechne zanurzenie się w prostych, nie wymagających wysiłku intelektualnego przyjemnościach
+- powszechne zanurzenie się w prostych, niewymagających wysiłku intelektualnego przyjemnościach
 - dostosowanie się do stale obniżającego się poziomu nauczania
-- erozja zaufania społecznego wobec autorytetów (bp. naukowców, artstów, inżynierów, lekarzy)
+- erozja zaufania społecznego wobec autorytetów (bp. naukowców, artystów, inżynierów, lekarzy)
 - przystosowanie się/ poddanie się wszechobecnemu *social scoringowi* - algorytmom, które oceniają nasze postawy i zachowanie
 
 Z drugiej strony, rośnie ruch oporu::
