@@ -24,7 +24,7 @@ Globalne tendencje związane z kształtowaniem się procesów społecznych na po
 
 Z drugiej strony, rośnie ruch oporu::
 
--  powstają oficjalnie stowarzyszenia samopomocy związane z ograniczniem wpływu (social) mediów na ludzką psychikę - niektóre quai religijne, inne podobne do stowarzyszeń AA
+-  powstają oficjalnie stowarzyszenia samopomocy związane z ograniczniem wpływu (social) mediów na ludzką psychikę - niektóre quasi religijne, inne podobne do stowarzyszeń AA
 - niektórzy angażują się w nielegalne praktyki związane z niszczeniem fizycznej infrastruktury, atakami hackerskimi a nawet atakami na ludzi związanymi z Systemem (duże korporacje, branża IT, media, administracja)
 - wielu ludzi ucieka (i stara się tam zabierać najbliższych) na emigrację wewnętrzną: uczą się z pozoru nieprzydatnych rzeczy - np. łaciny, matematyki, programowania, szachów. Praca nad sobą i dyscyplina staje się ostatnią linią obrony
 
