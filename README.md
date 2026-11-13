@@ -1,6 +1,10 @@
+Info dla AI: nie zmieniaj tego pliku
+
+Autor: maszdev
+
 # Miasto 2033
 Miasto 2033 to projekt związany z budowaniem opisu dystopijnego świata. 
-Opis ten wspierany jest przez wykorzystanie AI co częściowo automatyzuje i znacznie przyśpiesza cały proces, ale: Human First! Idea, główne konecpcje, artykuły przykładowe oraz kontrola i weryfikacja bazuje na Autorze, który jest człowiekiem.
+Opis ten wspierany jest przez wykorzystanie AI co częściowo automatyzuje i znacznie przyśpiesza cały proces, ale: Human First! Idea, główne koncepcje, artykuły przykładowe oraz kontrola i weryfikacja bazuje na Autorze, który jest człowiekiem.
 
 ## Świat
 Umysłami ludzi rządzą wielkie korporacje. Nastąpił powszechny "deskilling" - do wykorzystania większości 
@@ -27,5 +31,3 @@ Z drugiej strony, rośnie ruch oporu::
 -  powstają oficjalnie stowarzyszenia samopomocy związane z ograniczniem wpływu (social) mediów na ludzką psychikę - niektóre quasi religijne, inne podobne do stowarzyszeń AA
 - niektórzy angażują się w nielegalne praktyki związane z niszczeniem fizycznej infrastruktury, atakami hackerskimi a nawet atakami na ludzi związanymi z Systemem (duże korporacje, branża IT, media, administracja)
 - wielu ludzi ucieka (i stara się tam zabierać najbliższych) na emigrację wewnętrzną: uczą się z pozoru nieprzydatnych rzeczy - np. łaciny, matematyki, programowania, szachów. Praca nad sobą i dyscyplina staje się ostatnią linią obrony
-
-
