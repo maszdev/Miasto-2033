@@ -1,6 +1,6 @@
 ---
 typ: frakcja
-status: szkic
+status: kanon
 powiazania: [../frakcje/lumen.md, ../frakcje/kredo.md]
 rodzaj: korporacja
 legalnosc: legalna
@@ -24,10 +24,10 @@ Szkoły kupują licencje. Dawni nauczyciele zostali „opiekunami grup”: pilnu
 ## Stosunek do Systemu i innych frakcji
 - [Lumen](../frakcje/lumen.md) – komunikacja szkoły z rodzicami i uczniami.
 - [Kredo](../frakcje/kredo.md) – odbiorca danych o wynikach i „potencjale” uczniów.
-- Emigracja wewnętrzna – dla Mentory nieistotna statystycznie; dla rodziców uczących dzieci łaciny czy matematyki poza systemem jest główną przyczyną ucieczki.
+- Emigracja wewnętrzna – dla Mentory nieistotna statystycznie; dla rodziców uczących dzieci łaciny czy matematyki poza systemem jest jedną z przyczyn ucieczki.
 
 ## Znane postacie
 - (brak – do uzupełnienia)
 
 ## Historia frakcji
-Mentora weszła do szkół jako pomoc przy zadaniach domowych w czasach braku nauczycieli. Gdy wyniki uczniów korzystających z tutora okazały się lepsze w testach przygotowanych przez tego samego dostawcę, kolejne szkoły kupowały pełne licencje. Etaty nauczycielskie znikały stopniowo, przy okazji kolejnych reform budżetowych.
+Mentora weszła do szkół jako pomoc przy zadaniach domowych, gdy nauczycieli było za mało, żeby każdemu uczniowi poświęcić dość uwagi. Nikt nie twierdził, że tutor uczy lepiej niż dobry nauczyciel. Uczył wystarczająco dobrze: wyniki w testach, przygotowanych zresztą przez tego samego dostawcę, nie spadały, dzieci były zadowolone, a rodzice codziennie dostawali na Lumenie raport o postępach. Dla polityków liczyło się, że licencja kosztuje mniej niż etaty. Kolejne szkoły kupowały pełne licencje, a etaty nauczycielskie znikały stopniowo, przy okazji kolejnych reform budżetowych. Dobrzy nauczyciele wciąż istnieją, ale coraz częściej uczą prywatnie, dla tych, których na to stać.

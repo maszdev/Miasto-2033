@@ -1,6 +1,6 @@
 ---
 typ: frakcja
-status: szkic
+status: kanon
 powiazania: [../frakcje/lumen.md, ../frakcje/kredo.md, ../frakcje/servo.md]
 rodzaj: korporacja
 legalnosc: legalna
@@ -20,7 +20,7 @@ Centrum operacyjne zatrudnia zaskakująco mało ludzi. Są to głównie nadzorcy
 - Sterowanie światłami, transportem, oświetleniem i siecią energetyczną na podstawie prognoz.
 - Analiza obrazu z kamer i danych z czujników; wskazywanie „miejsc podwyższonego ryzyka” służbom porządkowym.
 - Drobne zachęty zamiast zakazów: zmiana tras, dłuższe czekanie na przejściach w jednych miejscach, krótsze w innych.
-- Konsekwencje: dzielnice uznane za mało rentowne lub ryzykowne są obsługiwane gorzej, a mieszkańcy rzadko wiedzą dlaczego.
+- Konsekwencje: mieszkańcy niektórych dzielnic są przekonani, że ich ulice są gorzej oświetlone, rzadziej sprzątane, a autobusy jeżdżą tam rzadziej. Civitas tłumaczy różnice „optymalizacją na podstawie danych”, a dowodów celowego działania brak.
 
 ## Stosunek do Systemu i innych frakcji
 - Ratusz Miasta – zleceniodawca; formalnie decyduje, faktycznie zależy od danych i wiedzy Civitas.

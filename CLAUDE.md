@@ -8,6 +8,12 @@ Claude jest narzędziem: szkicuje, porządkuje, rozwija i pilnuje spójności, a
 - kiedy wymyślasz nowy fakt o świecie (nazwę, datę, wydarzenie, postać), wypisz go na końcu odpowiedzi jako listę „Nowe fakty do zatwierdzenia”,
 - jeśli prośba jest sprzeczna z kanonem, zatrzymaj się i wskaż sprzeczność, zamiast ją po cichu rozwiązywać.
 
+### Akapit „Info dla AI”
+Strona może zaczynać się akapitem od „Info dla AI”. To polecenie Autora dotyczące tej strony i ma pierwszeństwo przed ogólnymi zasadami pracy:
+- „nie zmieniaj” – stronę wolno czytać i linkować, ale nie wolno jej edytować (także drobnych poprawek, statusu czy linków zwrotnych); potrzebne zmiany tylko zaproponuj,
+- „nie czytaj” – poza tym akapitem nie czytaj strony, nie analizuj jej i nie używaj jej treści przy budowie świata ani przy przeglądzie spójności; może zawierać informacje niezgodne ze światem,
+- przy wyszukiwaniu (grep) najpierw sprawdzaj akapit „Info dla AI”, żeby nie wczytać treści stron oznaczonych „nie czytaj”.
+
 ## Świat w skrócie
 - Rok 2033. Umysłami ludzi rządzą wielkie korporacje (określane zbiorczo jako System).
 - Powszechny deskilling: większość czynności wykonuje AI i roboty.
@@ -24,13 +30,14 @@ Pełny opis jest w `README.md` i w katalogu `swiat/`. Jeśli są ze sobą sprzec
 
 ## Ton i styl
 - Język polski, staranny; terminy techniczne po angielsku wolno zostawić kursywą (*social scoring*, *Internet of Things*).
-- Dystopia realistyczna, „za rogiem”: technologia jest wiarygodna i bliska dzisiejszej, bez magii i kosmicznego sci-fi.
+- Dystopia realistyczna, „za rogiem”: technologia jest wiarygodna i bliska dzisiejszej, bez magii i kosmicznego sci-fi. Roboty to wyspecjalizowane urządzenia (roboty sprzątające, automatyczne kuchnie, roboty dostawcze, czujniki), a nie humanoidy wyręczające człowieka we wszystkim.
 - Pokazuj, nie oceniaj: świat ma bronić się sam, bez moralizowania narratora.
 - System nie jest kreskówkowo zły. Działa przez wygodę, nawyk i przyzwolenie.
 - Opór nie jest jednoznacznie dobry; postaci mają wątpliwości i koszty.
 - Droga do 2033 była stopniowa: nie wymyślaj przełomowych wydarzeń ani jednej daty „kiedy wszystko się zmieniło”, tylko drobne, banalne kroki.
 - Korporacje mają nazwy. Występują zarówno prawdziwe firmy, jak i wymyślone (np. [Lumen](frakcje/lumen.md), [Kredo](frakcje/kredo.md)); wymyślone pojawiają się w historiach częściej.
 - System toleruje legalne stowarzyszenia samopomocy i zarabia na buncie przeciw sobie: sprzedaje uzależnienie, a potem wychodzenie z niego. Granica między autentycznym ruchem a produktem bywa niejasna.
+- Motyw przewodni, do którego warto wracać na stronach i w historiach: im bardziej wysługujemy się AI i robotami, tym mniej potrafimy zrobić bez nich. Zależność narasta po cichu i odkrywa się ją dopiero wtedy, gdy technologia zawiedzie albo trzeba z niej zrezygnować.
 - Przemoc i sabotaż opisuj na poziomie narracji i konsekwencji, bez technicznych instrukcji (jak zbudować, jak włamać się krok po kroku).
 
 ## Struktura repozytorium
