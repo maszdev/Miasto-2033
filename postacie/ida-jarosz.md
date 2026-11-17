@@ -1,7 +1,7 @@
 ---
 typ: postac
 status: kanon
-powiazania: [../frakcje/lumen.md, ../frakcje/kredo.md, ../frakcje/civitas-systems.md, ../frakcje/servo.md, ../frakcje/krok-wstecz.md]
+powiazania: [../miasto/kowale-polnoc.md, ../frakcje/lumen.md, ../frakcje/kredo.md, ../frakcje/civitas-systems.md, ../frakcje/servo.md, ../frakcje/krok-wstecz.md]
 ---
 
 # Ida Jarosz
@@ -11,7 +11,7 @@ powiazania: [../frakcje/lumen.md, ../frakcje/kredo.md, ../frakcje/civitas-system
 ## W skrócie
 - **Wiek w 2033:** 28 lat
 - **Zajęcie:** weryfikatorka odpowiedzi w Wydziale Kontaktu z Mieszkańcami urzędu miasta; z wykształcenia socjolożka
-- **Dzielnica:** Kowale Północ
+- **Dzielnica:** [Kowale Północ](../miasto/kowale-polnoc.md)
 - **Social score:** przeciętny. Stała praca w urzędzie podnosi wynik, ale nocne godziny na Lumenie, zakupy w antykwariatach i brak „aktywności rozwojowej” w aplikacjach go obniżają. Wynik nie wystarcza, żeby wynająć coś samodzielnie.
 - **Stosunek do Systemu:** lojalna, ale coraz mniej przekonana
 
