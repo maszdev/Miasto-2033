@@ -1,6 +1,6 @@
 ---
 typ: postac
-status: szkic
+status: kanon
 powiazania: [../frakcje/lumen.md, ../frakcje/kredo.md, ../frakcje/civitas-systems.md, ../frakcje/servo.md, ../frakcje/krok-wstecz.md]
 ---
 
