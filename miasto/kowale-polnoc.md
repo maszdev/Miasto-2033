@@ -1,7 +1,7 @@
 ---
 typ: miejsce
 status: szkic
-powiazania: [../postacie/ida-jarosz.md]
+powiazania: [../postacie/ida-jarosz.md, ../postacie/grzegorz-pietrzak.md]
 ---
 
 # Kowale Północ
@@ -18,9 +18,11 @@ Sercem dzielnicy jest duże targowisko. Z czasem postawiono przy nim hale. Targo
 
 ## Kto tu żyje / bywa
 - [Ida Jarosz](../postacie/ida-jarosz.md) – mieszka z rodzicami.
+- [Grzegorz Pietrzak](../postacie/grzegorz-pietrzak.md) – hydraulik, mieszka w kamienicy po rodzicach, majsterkuje w garażu w podwórku.
 
 ## Szczeliny
 (do uzupełnienia)
 
 ## Postacie i historie
 - [Ida Jarosz](../postacie/ida-jarosz.md)
+- [Grzegorz Pietrzak](../postacie/grzegorz-pietrzak.md)
