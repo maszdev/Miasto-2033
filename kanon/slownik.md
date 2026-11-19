@@ -14,6 +14,8 @@ status: kanon
 - **Lumen** – platforma społecznościowa; konto Lumen pełni rolę tożsamości, przez nie działają też urzędy. → [Lumen](../frakcje/lumen.md)
 - **Mentora** – dostawca AI-tutorów, którzy zastąpili większość nauczycieli. → [Mentora](../frakcje/mentora.md)
 - **Miasto** – celowo bezimienne miasto, w którym rozgrywa się akcja; uniwersalne *smart city*. Zawsze wielką literą, bez prawdziwych toponimów. Dzielnice i ulice mają własne, wymyślone nazwy, niekojarzone z dzielnicami dużych polskich miast. → [README](../README.md)
+- **Nowe Sady** – wielkie osiedle, „miasto w mieście”, zajmujące prawie całe Olszyny; dom aspirującej klasy średniej. (szkic) → [Olszyny](../miasto/olszyny.md)
+- **Olszyny** – dzielnica na miejscu dawnej podmiejskiej wsi, dziś prawie w całości zajęta przez osiedle Nowe Sady. (szkic) → [Olszyny](../miasto/olszyny.md)
 - **Servo** – dostawca inteligentnych urządzeń i robotów domowych w abonamencie (bez humanoidów). → [Servo](../frakcje/servo.md)
 - **Smart city** – miasto oplecione IoT, kamerami i czujnikami, zarządzane przez AI. → [README](../README.md)
 - **Social scoring** – algorytmiczna ocena postaw i zachowań obywateli. → [README](../README.md)
