@@ -13,25 +13,24 @@ powiazania: [../miasto/kowale-polnoc.md, ../frakcje/servo.md, ../frakcje/lumen.m
 - **Zajęcie:** hydraulik i „złota rączka”; z wykształcenia technik gazownik
 - **Dzielnica:** [Kowale Północ](../miasto/kowale-polnoc.md)
 - **Social score:** niski. Część zleceń bierze za gotówkę, w historii ma aplikację hazardową, a jego wpisy na Lumenie algorytm uznaje za „konfliktowe”.
-- **Stosunek do Systemu:** w deklaracjach jednoznacznie wrogi, w praktyce ambiwalentny - niedoskonałości Systemu działają na jego korzyść
+- **Stosunek do Systemu:** w deklaracjach jednoznacznie wrogi, w praktyce ambiwalentny – niedoskonałości Systemu działają na jego korzyść
 
 ## Wygląd i sposób bycia
-Ma szerokie, pokaleczone dłonie, mówi głośno i krótko. Kiedy ktoś wspomina o robocie albo „inteligentnym” urządzeniu, prycha z pogardą. Wobec klientów jest szorstki, ale ujmuje ich solidnością zazwyczaj nie narzeka więc na brak zleceń. 
-W pracy się nie spieszy, źle znosi uwagi na swój temat. Jeśli dyskusja na tema jakości jego usług się przedłuża przypomina o możliwości wykupienia abonamentu w Servo. 
+Ma szerokie, pokaleczone dłonie, mówi głośno i krótko. Kiedy ktoś wspomina o robocie albo „inteligentnym” urządzeniu, prycha z pogardą. Wobec klientów jest szorstki, ale ujmuje ich solidnością, więc zazwyczaj nie narzeka na brak zleceń. W pracy się nie spieszy, źle znosi uwagi na swój temat. Jeśli dyskusja na temat jakości jego usług się przedłuża, przypomina o możliwości wykupienia abonamentu w Servo. 
 
-W garażu w podwórku ma swoje królestwo - majsterkuje tam w weekendy: trochę elektryki, trochę dłubania przy motorze. Czasami wpadają tam do niego kumple -  to stałe miejsce gdzie można ponarzekać na wszystko, wypić piwko, 
-pogadać o tym co aktualnie jest "na warsztacie". 
+W garażu w podwórku ma swoje królestwo – majsterkuje tam w weekendy: trochę elektryki, trochę dłubania przy motorze. Czasami wpadają tam do niego kumple – to stałe miejsce, gdzie można ponarzekać na wszystko, wypić piwko i pogadać o tym, co aktualnie jest „na warsztacie”.
+
 ## Historia
-Technikum gazownicze skończył wiele lat temu i przez pewien czas pracował w zawodzie. Z czasem przeszedł na hydraulikę i drobne naprawy: łazienki, piony, gniazdka, zacięte zamki.  W Kowalach Północ i okolicy coraz mniej ludzi umie samemu wymienić uszczelkę, a urządzenia [Servo](../frakcje/servo.md) obsługują tylko technicy Servo. Do Grzegorza dzwoni się w sprawie wszystkiego, czego robot nie obsłuży i czego abonament nie obejmuje.
+Technikum gazownicze skończył wiele lat temu i przez pewien czas pracował w zawodzie. Z czasem przeszedł na hydraulikę i drobne naprawy: łazienki, piony, gniazdka, zacięte zamki. W Kowalach Północ i okolicy coraz mniej ludzi umie samodzielnie wymienić uszczelkę, a urządzenia [Servo](../frakcje/servo.md) obsługują tylko technicy Servo. Do Grzegorza dzwoni się w sprawie wszystkiego, czego robot nie obsłuży i czego abonament nie obejmuje.
 
-Jest po rozwodzie. Nastoletni syn mieszka z matką, ale z ojcem ma dobry kontakt. Kończy słabe liceum, lubi gry komputerowe i stare komputery. Grzegorz przywozi mu z giełd stare komputery i konsole, a potem razem próbują je uruchomić. W jego mieszkaniu stoją flippery - maszyna do gier z XX wieku. To ich wspólny język.
+Jest po rozwodzie. Nastoletni syn mieszka z matką, ale z ojcem ma dobry kontakt. Kończy słabe liceum, lubi gry komputerowe i stare komputery. Grzegorz przywozi mu z giełd sprzęt – komputery i konsole – a potem razem próbują je uruchomić. W jego mieszkaniu stoją flippery, maszyny do gry z XX wieku. To ich wspólny język.
 
-Mieszka w kamienicy, w mieszkaniu po rodzicach. Odziedziczył je razem z rodzeństwem i od kilku lat spłaca ich udziały w ratach. Alimenty i raty są powodem, żeby brać wiecej zleceń.
+Mieszka w kamienicy, w mieszkaniu po rodzicach. Odziedziczył je razem z rodzeństwem i od kilku lat spłaca ich udziały w ratach. Alimenty i raty są powodem, żeby brać więcej zleceń.
 
 ## Czego chce, czego się boi
 Chce spłacić rodzeństwo i mieć mieszkanie, które w końcu będzie jego. Chce, żeby syn umiał coś zrobić własnymi rękami i nie skończył przed ekranem, choć sam przed ekranem spędza wieczory.
 
-Boi się, że kiedyś Servo tak rozszerzy zakres usług, że jego robota przestanie być potrzebna. Jeszcze bardziej boi się, że syn zobaczy, że ojciec sobie nie radzi (ewentualny brak pracy, uzależnienia).
+Boi się, że kiedyś Servo tak rozszerzy zakres usług, że jego robota przestanie być potrzebna. Jeszcze bardziej boi się, że syn zobaczy, że ojciec sobie nie radzi: z pracą, gdyby jej zabrakło, i z nałogami.
 
 ## Słabości
 - Jest uzależniony od pornografii i hazardu. Hazard trzyma w ryzach: co jakiś czas odinstalowuje aplikację, a po kilku tygodniach albo miesiącach instaluje ją z powrotem.
