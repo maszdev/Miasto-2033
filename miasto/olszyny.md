@@ -1,7 +1,7 @@
 ---
 typ: miejsce
 status: szkic
-powiazania: [../frakcje/civitas-systems.md, ../frakcje/servo.md, ../frakcje/kredo.md, ../frakcje/mentora.md, ../frakcje/lumen.md, ../miasto/kowale-polnoc.md]
+powiazania: [../frakcje/civitas-systems.md, ../frakcje/servo.md, ../frakcje/kredo.md, ../frakcje/mentora.md, ../frakcje/lumen.md, ../miasto/kowale-polnoc.md, ../postacie/adam-korecki.md]
 ---
 
 # Olszyny
@@ -27,6 +27,7 @@ Mieszka tu aspirująca klasa średnia: ludzie zarabiający powyżej średniej, z
 ## Kto tu żyje / bywa
 - Aspirujące rodziny i młodzi specjaliści, dla których adres na Nowych Sadach jest dowodem sukcesu.
 - Dawni mieszkańcy Olszyn w kilku ocalałych domach na obrzeżach, otoczonych nowymi blokami.
+- [Adam Korecki](../postacie/adam-korecki.md) – profesor matematyki, mieszka z żoną w jednym z zamkniętych zespołów.
 - Kurierzy, roboty dostawcze i ekipy serwisowe, które codziennie rano wjeżdżają tu z innych dzielnic.
 
 Tu nikt nie ma garażu do majsterkowania. Kiedy coś przestaje działać, a technik Servo ma wolny termin dopiero za tydzień, okazuje się, że nikt nie wie, co zrobić. W takich sytuacjach ktoś czasem po cichu ściąga fachowca ze starszych dzielnic, takich jak [Kowale Północ](../miasto/kowale-polnoc.md), gdzie wciąż mieszkają ludzie, którzy umieją coś naprawić własnymi rękami.
@@ -35,4 +36,4 @@ Tu nikt nie ma garażu do majsterkowania. Kiedy coś przestaje działać, a tech
 (do uzupełnienia)
 
 ## Postacie i historie
-- (jeszcze nikt)
+- [Adam Korecki](../postacie/adam-korecki.md)

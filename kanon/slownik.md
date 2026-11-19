@@ -6,6 +6,7 @@ status: kanon
 # Słownik
 
 - **Civitas Systems** – operator miejskiej AI; na mocy kontraktu z ratuszem zarządza kamerami, czujnikami, ruchem i energią w Mieście. → [Civitas Systems](../frakcje/civitas-systems.md)
+- **Czynnik ludzki** – człowiek, który z mocy prawa nadzoruje pracę systemu AI i ponosi odpowiedzialność za jej skutki, choć samej pracy już nie wykonuje. → [Adam Korecki](../postacie/adam-korecki.md)
 - **Deskilling** – zanik umiejętności wskutek przekazania większości czynności AI i robotom. → [README](../README.md)
 - **Emigracja wewnętrzna** – ucieczka w naukę rzeczy „nieprzydatnych” (łacina, matematyka, programowanie, szachy) jako forma obrony. → [README](../README.md)
 - **Kowale Północ** – stara robotnicza dzielnica poza centrum: kamienice z szopami na podwórkach, niskie bloki z XX wieku i duże targowisko z halami. → [Kowale Północ](../miasto/kowale-polnoc.md)
