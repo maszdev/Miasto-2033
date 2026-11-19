@@ -1,6 +1,6 @@
 ---
 typ: postac
-status: szkic
+status: kanon
 powiazania: [../miasto/kowale-polnoc.md, ../frakcje/servo.md, ../frakcje/lumen.md, ../frakcje/kredo.md]
 ---
 
