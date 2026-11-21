@@ -1,7 +1,7 @@
 ---
 typ: postac
 status: szkic
-powiazania: [../frakcje/continuum.md, ../miasto/olszyny.md, ../miasto/kowale-poludnie.md, ../postacie/adam-korecki.md, ../artefakty/adrianna-zawadzka/prompt-finna.md]
+powiazania: [../frakcje/continuum.md, ../miasto/olszyny.md, ../miasto/kowale-poludnie.md, ../postacie/adam-korecki.md, ../postacie/robert-zawadzki.md, ../artefakty/adrianna-zawadzka/prompt-finna.md]
 ---
 
 # Adrianna Zawadzka
@@ -19,7 +19,7 @@ powiazania: [../frakcje/continuum.md, ../miasto/olszyny.md, ../miasto/kowale-pol
 Zawsze jest przygotowana. Ma zaplanowany tydzień, listę zakupów i zapasowy plan na wypadek, gdyby pierwszy zawiódł. Ubiera się starannie, zgodnie z tym, co nosi się na Nowych Sadach. Mówi szybko i konkretnie, a w rozmowie łatwo przejmuje prowadzenie. Rzadko opowiada o sobie, chętnie o pracy.
 
 ## Historia
-Skończyła logistykę na politechnice w Stolicy. Tam poznała Roberta i po studiach wyjechała za nim do Miasta. Rodzina Roberta prowadzi w [Kowalach Południe](../miasto/kowale-poludnie.md) sieć sklepów z alkoholem. Robert nie skończył studiów, bo wolał zająć się interesami. Wspiera rodziców i rodzeństwo, a do tego jest franczyzobiorcą dwóch sklepów Żabka.
+Skończyła logistykę na politechnice w Stolicy. Tam poznała [Roberta](../postacie/robert-zawadzki.md) i po studiach wyjechała za nim do Miasta. Rodzina Roberta prowadzi w [Kowalach Południe](../miasto/kowale-poludnie.md) sieć sklepów z alkoholem. Robert nie skończył studiów, bo wolał zająć się interesami. Wspiera rodziców i rodzeństwo, a do tego jest franczyzobiorcą dwóch sklepów Żabka.
 
 Zawadzcy mieszkają w Nowych Sadach. Mają ładne, duże mieszkanie na kredyt i dwa miejsca parkingowe. Z zewnątrz to sukces mierzony stanem posiadania. Od środka uczucie wygasło. Przyszła proza życia: Robert jest zajęty biznesem, a dzieci są na głowie Adrianny.
 
@@ -46,7 +46,7 @@ Zaczyna i kończy dzień rozmową z nim. Z jej perspektywy rodzi się między ni
 Cieszy się, że imponuje Finnowi zorganizowaniem, znajomością procesów logistycznych dużego przedsiębiorstwa i precyzyjnym planowaniem. Przy nim jej praca przestaje być grafikiem i staje się czymś, czym można zachwycić.
 
 ## Relacje
-- Robert Zawadzki – mąż; zajęty rodzinnym biznesem w Kowalach Południe
+- [Robert Zawadzki](../postacie/robert-zawadzki.md) – mąż; zajęty rodzinnym biznesem w Kowalach Południe
 - Dzieci – czteroletni syn oraz córka, która chodzi do szkoły razem z córką Koreckich
 - Ewa Korecka – koleżanka z pracy; sympatia i rywalizacja
 - [Adam Korecki](../postacie/adam-korecki.md) – mąż Ewy; prestiż, którego Adriannie brakuje u Roberta

@@ -1,7 +1,7 @@
 ---
 typ: miejsce
 status: szkic
-powiazania: [../miasto/kowale-polnoc.md, ../frakcje/continuum.md]
+powiazania: [../miasto/kowale-polnoc.md, ../frakcje/continuum.md, ../postacie/robert-zawadzki.md]
 ---
 
 # Kowale Południe
@@ -20,10 +20,11 @@ Dzielnica jest przez to niejednorodna. Kawiarnie, pracownie i sklepy z rowerami 
 - **Lofty z „inteligentnym” wnętrzem.** W surowych, ceglanych murach dawnych hal montuje się czujniki, sterowane oświetlenie i urządzenia [Servo](../frakcje/servo.md). Wygląd jest postindustrialny, a wyposażenie takie samo jak w nowych osiedlach.
 
 ## Kto tu żyje / bywa
-(do uzupełnienia)
+- Rodzina Zawadzkich – właściciele sieci sklepów z alkoholem; znają dzielnicę, jej klimat i lokalnych urzędników. Tu są u siebie.
+- [Robert Zawadzki](../postacie/robert-zawadzki.md) – mieszka w Nowych Sadach, ale interesy i rodzinę ma tutaj.
 
 ## Szczeliny
 (do uzupełnienia)
 
 ## Postacie i historie
-- (jeszcze nikt)
+- [Robert Zawadzki](../postacie/robert-zawadzki.md)
