@@ -44,6 +44,7 @@ Adam nic jej nie powiedział. Tłumaczy sobie, że to tylko rozmowy, że niepotr
 
 ## Relacje
 - Ewa Korecka – żona, młodsza o dziesięć lat, jego dawna studentka; księgowa w dużej firmie, nadzoruje pracę systemów AI jako „czynnik ludzki”. W przeciwieństwie do niego nie jest fanką AI i przeczuwa, że kiedyś zostanie zastąpiona.
+- Córka – chodzi do szkoły razem z córką [Adrianny Zawadzkiej](../postacie/adrianna-zawadzka.md)
 
 ## Występuje w
 - (jeszcze nigdzie)

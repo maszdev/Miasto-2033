@@ -1,7 +1,7 @@
 ---
 typ: miejsce
 status: szkic
-powiazania: [../frakcje/civitas-systems.md, ../frakcje/servo.md, ../frakcje/kredo.md, ../frakcje/mentora.md, ../frakcje/lumen.md, ../miasto/kowale-polnoc.md, ../postacie/adam-korecki.md]
+powiazania: [../frakcje/civitas-systems.md, ../frakcje/servo.md, ../frakcje/kredo.md, ../frakcje/mentora.md, ../frakcje/lumen.md, ../miasto/kowale-polnoc.md, ../postacie/adam-korecki.md, ../postacie/adrianna-zawadzka.md]
 ---
 
 # Olszyny
@@ -28,6 +28,7 @@ Mieszka tu aspirująca klasa średnia: ludzie zarabiający powyżej średniej, z
 - Aspirujące rodziny i młodzi specjaliści, dla których adres na Nowych Sadach jest dowodem sukcesu.
 - Dawni mieszkańcy Olszyn w kilku ocalałych domach na obrzeżach, otoczonych nowymi blokami.
 - [Adam Korecki](../postacie/adam-korecki.md) – profesor matematyki, mieszka z żoną w jednym z zamkniętych zespołów.
+- [Adrianna Zawadzka](../postacie/adrianna-zawadzka.md) – logistyczka, mieszka z rodziną w dużym mieszkaniu na kredyt.
 - Kurierzy, roboty dostawcze i ekipy serwisowe, które codziennie rano wjeżdżają tu z innych dzielnic.
 
 Tu nikt nie ma garażu do majsterkowania. Kiedy coś przestaje działać, a technik Servo ma wolny termin dopiero za tydzień, okazuje się, że nikt nie wie, co zrobić. W takich sytuacjach ktoś czasem po cichu ściąga fachowca ze starszych dzielnic, takich jak [Kowale Północ](../miasto/kowale-polnoc.md), gdzie wciąż mieszkają ludzie, którzy umieją coś naprawić własnymi rękami.
@@ -47,3 +48,4 @@ Olszyny to wizytówka kontroli, więc szczelin jest tu niewiele. Te, które są,
 
 ## Postacie i historie
 - [Adam Korecki](../postacie/adam-korecki.md)
+- [Adrianna Zawadzka](../postacie/adrianna-zawadzka.md)

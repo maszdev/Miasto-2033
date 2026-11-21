@@ -21,6 +21,7 @@ status: kanon
 - **Servo** – dostawca inteligentnych urządzeń i robotów domowych w abonamencie (bez humanoidów). → [Servo](../frakcje/servo.md)
 - **Smart city** – miasto oplecione IoT, kamerami i czujnikami, zarządzane przez AI. → [README](../README.md)
 - **Social scoring** – algorytmiczna ocena postaw i zachowań obywateli. → [README](../README.md)
+- **Stolica** – bezimienna stolica kraju, poza Miastem. Zawsze wielką literą, bez cech wskazujących wprost na prawdziwe miasto; kraj pozostaje nienazwany. → [Adrianna Zawadzka](../postacie/adrianna-zawadzka.md)
 - **System** – zbiorcze określenie korporacji, branży IT, mediów i administracji sprawujących kontrolę. → [README](../README.md)
 - **Wydział Kontaktu z Mieszkańcami** – komórka urzędu miasta, w której ludzie weryfikują odpowiedzi asystenta AI udzielane mieszkańcom na czacie Lumenu. → [Ida Jarosz](../postacie/ida-jarosz.md)
 - **Zgromadzenie Ciszy** – quasi-religijna wspólnota, która odrzuciła sponsorów i dąży do całkowitego wyjścia z platform. → [Zgromadzenie Ciszy](../frakcje/zgromadzenie-ciszy.md)

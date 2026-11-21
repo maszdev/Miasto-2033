@@ -69,6 +69,7 @@ robocze/         – notatki robocze Autora, poza gitem (.gitignore); czytaj tyl
 - Każda strona zaczyna się od frontmattera z szablonu (`typ`, `status`, `powiazania`).
 - Linki tylko względne: `[Anna Wrona](../postacie/anna-wrona.md)`.
 - Miasto jest celowo bezimienne: zawsze „Miasto” wielką literą, bez nazw prawdziwych miast. Dzielnice i ulice mogą mieć własne, wyraziste nazwy, ale nie takie, które kojarzą się z popularnymi dzielnicami dużych polskich miast (np. unikaj „Mokotowa”, „Nowej Huty”, „Śródmieścia”, „Pragi”). Nowe nazwy trafiają do `kanon/slownik.md` jako `(szkic)`.
+- Kraj jest celowo nienazwany. Wszystko wskazuje na Polskę (imiona, realia, firmy), ale nie mówimy tego wprost: to „nasz krąg kulturowy, tuż za rogiem”. Stolica kraju, tak jak Miasto, jest bezimienna: zawsze „Stolica” wielką literą, bez cech wskazujących wprost na prawdziwe miasto.
 - Jedna strona = jeden temat. Jeśli strona przekracza ok. 1500 słów (nie dotyczy historii), zaproponuj podział.
 
 ## Sposób pracy przy każdej nowej treści
