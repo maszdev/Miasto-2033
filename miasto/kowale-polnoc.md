@@ -1,7 +1,7 @@
 ---
 typ: miejsce
 status: szkic
-powiazania: [../postacie/ida-jarosz.md, ../postacie/grzegorz-pietrzak.md, ../miasto/olszyny.md]
+powiazania: [../postacie/ida-jarosz.md, ../postacie/grzegorz-pietrzak.md, ../miasto/olszyny.md, ../miasto/kowale-poludnie.md]
 ---
 
 # Kowale Północ

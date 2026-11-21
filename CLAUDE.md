@@ -48,11 +48,21 @@ miasto/          – dzielnice, miejsca, infrastruktura
 frakcje/         – korporacje, urzędy, stowarzyszenia, ruchy oporu
 postacie/        – jedna strona na postać
 historie/        – opowiadania i sceny
+artefakty/       – dokumenty ze świata (prompty, rozmowy, maile, posty), w podkatalogach według właściciela
 kanon/
   os-czasu.md    – chronologia (rok, wydarzenie, link)
   slownik.md     – pojęcia i nazwy własne, alfabetycznie
 szablony/        – szablony stron (nie edytuj bez prośby)
+robocze/         – notatki robocze Autora, poza gitem (.gitignore); czytaj tylko na wyraźną prośbę
 ```
+
+### Artefakty
+- Artefakt to dokument, który istnieje w świecie: napisała go postać albo wygenerował System. Historia (`historie/`) to narracja o świecie. Historia może cytować artefakt i do niego linkować.
+- Podkatalog w `artefakty/` wybieraj według tego, do kogo artefakt należy w świecie, czyli gdzie by go znaleziono (czyj telefon, czyja skrzynka, czyje archiwum), np. `artefakty/anna-wrona/rozmowa-z-bratem.md`. Nazwa podkatalogu jest taka jak nazwa pliku postaci, miejsca lub frakcji.
+- Pozostałe zaangażowane osoby i organizacje wpisuj do pola `powiazania`.
+- Każdy artefakt ma frontmatter z szablonu `szablony/artefakt.md`, w tym datę w świecie zgodną z `kanon/os-czasu.md`.
+- Na stronie właściciela i stronach powiązanych dodawaj sekcję „Artefakty” z linkami (dla frakcji obowiązuje reguła z punktu 3 „Sposobu pracy”).
+- Treść artefaktu zachowuje styl i błędy autora ze świata; nie poprawiaj jej jak tekstu narratora.
 
 ## Nazewnictwo i format
 - Pliki: małe litery, bez polskich znaków, myślniki, np. `postacie/anna-wrona.md`, `frakcje/klub-szachowy-gambit.md`.

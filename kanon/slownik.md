@@ -9,6 +9,7 @@ status: kanon
 - **Czynnik ludzki** – człowiek, który z mocy prawa nadzoruje pracę systemu AI i ponosi odpowiedzialność za jej skutki, choć samej pracy już nie wykonuje. → [Adam Korecki](../postacie/adam-korecki.md)
 - **Deskilling** – zanik umiejętności wskutek przekazania większości czynności AI i robotom. → [README](../README.md)
 - **Emigracja wewnętrzna** – ucieczka w naukę rzeczy „nieprzydatnych” (łacina, matematyka, programowanie, szachy) jako forma obrony. → [README](../README.md)
+- **Kowale Południe** – dawna dzielnica przemysłowa: czynne fabryki, lofty w starych halach, nowe osiedla i bloki z wielkiej płyty. (szkic) → [Kowale Południe](../miasto/kowale-poludnie.md)
 - **Kowale Północ** – stara robotnicza dzielnica poza centrum: kamienice z szopami na podwórkach, niskie bloki z XX wieku i duże targowisko z halami. → [Kowale Północ](../miasto/kowale-polnoc.md)
 - **Kredo** – prywatna firma *social scoringu*; jej wynik decyduje o dostępie do kredytu, mieszkania i pracy. → [Kredo](../frakcje/kredo.md)
 - **Krok Wstecz** – certyfikowane stowarzyszenie samopomocy na wzór AA, sponsorowane przez Lumen. → [Krok Wstecz](../frakcje/krok-wstecz.md)

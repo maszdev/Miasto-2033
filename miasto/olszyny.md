@@ -33,7 +33,17 @@ Mieszka tu aspirująca klasa średnia: ludzie zarabiający powyżej średniej, z
 Tu nikt nie ma garażu do majsterkowania. Kiedy coś przestaje działać, a technik Servo ma wolny termin dopiero za tydzień, okazuje się, że nikt nie wie, co zrobić. W takich sytuacjach ktoś czasem po cichu ściąga fachowca ze starszych dzielnic, takich jak [Kowale Północ](../miasto/kowale-polnoc.md), gdzie wciąż mieszkają ludzie, którzy umieją coś naprawić własnymi rękami.
 
 ## Szczeliny
-(do uzupełnienia)
+Olszyny to wizytówka kontroli, więc szczelin jest tu niewiele. Te, które są, pozostają wstydliwe. Nie pasują do wizerunku sukcesu, dlatego nikt o nich głośno nie mówi.
+
+**Domy dawnych mieszkańców.** Na obrzeżach dzielnicy przetrwało kilka starych domów z czasów, gdy Olszyny były wsią. Mają ogródki, płoty z siatki, psa na podwórku i drzwi otwierane kluczem. Ich właściciele nie sprzedali ziemi deweloperom: jedni z uporu, inni dlatego, że oferta przyszła za późno albo za nisko. Nowe Sady traktują te domy jak brzydki margines, który kiedyś zniknie. Na razie mieszkają w nich ludzie, którzy pamiętają sady i sami koszą trawę. Niektóre dzieci z osiedla przychodzą pod ich płot zobaczyć psa.
+
+**Ciche korepetycje.** Rodzice płacą za „lepszą licencję” Mentory, a mimo to coraz częściej zauważają, że ich dzieci nie umieją rozwiązać zadania bez podpowiedzi. Część z nich po cichu wynajmuje żywych korepetytorów z matematyki, fizyki, a nawet łaciny. Płacą gotówką, umawiają się szeptem przez znajomych. Zajęcia odbywają się w mieszkaniu korepetytora albo na „wizycie towarzyskiej”. Nikt się do tego nie przyznaje, bo przyznanie oznaczałoby, że droga szkoła nie działa. Na osiedlowych grupach na Lumenie te same matki chwalą Mentorę. W prywatnych rozmowach przekazują sobie numer do „pani od matematyki”.
+
+**Szara strefa usług.** Dzielnica wygląda na w pełni zautomatyzowaną, a wciąż opiera się na ludzkich rękach. Codziennie przyjeżdżają tu fachowcy ze starszych dzielnic, opiekunki do dzieci i sprzątaczki do prac, z którymi nie radzą sobie roboty. Formalnie wchodzą jako goście zgłoszeni w aplikacji. Płatność idzie gotówką albo przelewem opisanym jako „zwrot za zakupy”. Obie strony wiedzą, że to nie całkiem w porządku. Obie potrzebują tego układu bardziej, niż chciałyby przyznać.
+
+**Niedokończony etap.** Na skraju osiedla stoi plac budowy kolejnego zespołu, wstrzymany od kilku lat po bankructwie dewelopera. Są tam szkielety budynków, ogrodzenie z dziurami, nieoświetlone podwórza i brak czujników, bo nikt ich jeszcze nie zamontował. Spotyka się tam młodzież z Nowych Sadów: siedzą na betonowych schodach prowadzących donikąd, rozmawiają i czasem piją. To jedyne miejsce w dzielnicy, w którym dorośli ich nie widzą. Rodzice wiedzą, że plac istnieje, ale wolą nie pytać.
+
+**Wiśnie po sezonie.** Przez tydzień w roku przy wiśniach stoją kolejki do zdjęć. Potem drzewa przekwitają i nikt już na nie nie patrzy. Wieczorami na ławkach pod nimi siadają starsi ludzie: dawni mieszkańcy Olszyn i ci nieliczni emeryci z osiedla, którzy przyszli tu za dziećmi. Rozmawiają bez telefonów o tym, gdzie stały sady, czyja była która działka i jak się kiedyś robiło nalewkę. To jedyne miejsce, gdzie stara wieś i nowe osiedle siedzą obok siebie.
 
 ## Postacie i historie
 - [Adam Korecki](../postacie/adam-korecki.md)
