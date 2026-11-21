@@ -1,7 +1,7 @@
 ---
 typ: postac
 status: szkic
-powiazania: [../miasto/olszyny.md, ../miasto/kowale-poludnie.md, ../postacie/adam-korecki.md, ../artefakty/adrianna-zawadzka/prompt-finna.md]
+powiazania: [../frakcje/continuum.md, ../miasto/olszyny.md, ../miasto/kowale-poludnie.md, ../postacie/adam-korecki.md, ../artefakty/adrianna-zawadzka/prompt-finna.md]
 ---
 
 # Adrianna Zawadzka
@@ -10,7 +10,7 @@ powiazania: [../miasto/olszyny.md, ../miasto/kowale-poludnie.md, ../postacie/ada
 
 ## W skrócie
 - **Wiek w 2033:** 39 lat
-- **Zajęcie:** logistyczka w dużej firmie; jako „czynnik ludzki” nadzoruje AI, które układa grafiki i trasy
+- **Zajęcie:** logistyczka w [Continuum](../frakcje/continuum.md); jako „czynnik ludzki” nadzoruje AI, które układa grafiki i trasy
 - **Dzielnica:** [Olszyny](../miasto/olszyny.md), duże mieszkanie w Nowych Sadach
 - **Social score:** wysoki i pilnowany. Kredyt, dwa miejsca parkingowe i adres na Nowych Sadach wymagają, żeby taki pozostał.
 - **Stosunek do Systemu:** lojalna z wygody; nie zadaje pytań, dopóki wszystko działa
@@ -23,7 +23,7 @@ Skończyła logistykę na politechnice w Stolicy. Tam poznała Roberta i po stud
 
 Zawadzcy mieszkają w Nowych Sadach. Mają ładne, duże mieszkanie na kredyt i dwa miejsca parkingowe. Z zewnątrz to sukces mierzony stanem posiadania. Od środka uczucie wygasło. Przyszła proza życia: Robert jest zajęty biznesem, a dzieci są na głowie Adrianny.
 
-Adrianna pracuje w tej samej dużej firmie co Ewa Korecka, żona Adama Koreckiego. Grafiki zmian i trasy układa AI. Jej funkcją celu są koszty i zysk, więc bez ograniczeń zamieniłaby życie pracowników w koszmar. Ostatnią barierą są związki zawodowe. Lobbują za przepisami, które ograniczają układanie grafików, zarówno w czasie, jak i w przestrzeni. Ważną częścią tych przepisów jest „czynnik ludzki”, a w firmie Adrianny tę rolę pełni ona. Prawo wymaga, żeby ktoś taki był, więc jej pozycja jest trochę bezpieczniejsza niż pozycja Ewy. Adrianna jest bezpiecznikiem i dobrze o tym wie.
+Adrianna pracuje w [Continuum](../frakcje/continuum.md), dużym operatorze logistycznym, tak samo jak Ewa Korecka, żona Adama Koreckiego. Grafiki zmian i trasy układa AI. Jej funkcją celu są koszty i zysk, więc bez ograniczeń zamieniłaby życie pracowników w koszmar. Ostatnią barierą są związki zawodowe. Lobbują za przepisami, które ograniczają układanie grafików, zarówno w czasie, jak i w przestrzeni. Ważną częścią tych przepisów jest „czynnik ludzki”, a w firmie Adrianny tę rolę pełni ona. Prawo wymaga, żeby ktoś taki był, więc jej pozycja jest trochę bezpieczniejsza niż pozycja Ewy. Adrianna jest bezpiecznikiem i dobrze o tym wie.
 
 ## Relacja z Koreckimi
 Córka Adrianny chodzi do szkoły razem z córką Koreckich. Adrianna i Ewa znają się i lubią, ale w pracy ze sobą rywalizują. Każda z resentymentem przygląda się mężowi „rywalki”. [Adam Korecki](../postacie/adam-korecki.md) daje prestiż, ale zarabia jak na uczelni. Robert jest zaradny i rozkręca nowe biznesy, ale nie błyszczy w towarzystwie, do którego aspiruje Adrianna.

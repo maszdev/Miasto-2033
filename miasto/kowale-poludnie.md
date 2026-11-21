@@ -1,7 +1,7 @@
 ---
 typ: miejsce
 status: szkic
-powiazania: [../miasto/kowale-polnoc.md]
+powiazania: [../miasto/kowale-polnoc.md, ../frakcje/continuum.md]
 ---
 
 # Kowale Południe
@@ -16,7 +16,7 @@ Część zakładów działa do dziś. Wiele jednak upadło. Niektóre hale przer
 Dzielnica jest przez to niejednorodna. Kawiarnie, pracownie i sklepy z rowerami w odnowionych halach sąsiadują z nowoczesnymi apartamentowcami. Obok stoją bloki z wielkiej płyty, które są tu „od zawsze”. Wciąż pracuje też przemysł: przez dzielnicę jeżdżą ciężarówki, a zza płotów słychać zmiany w zakładach.
 
 ## Jak System jest tu obecny
-- **Zautomatyzowane centra logistyczne.** Część czynnych zakładów to dziś magazyny i centra dystrybucyjne. Towar przenoszą roboty magazynowe, a ludzi jest tam niewielu. Grafiki zmian układa AI. Granice tego, co wolno jej zaplanować, wyznaczają przepisy wywalczone przez związki zawodowe.
+- **Zautomatyzowane centra logistyczne.** Część czynnych zakładów to dziś magazyny i centra dystrybucyjne, w dużej mierze należące do [Continuum](../frakcje/continuum.md). Towar przenoszą roboty magazynowe, a ludzi jest tam niewielu. Grafiki zmian układa AI. Granice tego, co wolno jej zaplanować, wyznaczają krajowe przepisy wywalczone przez związki zawodowe.
 - **Lofty z „inteligentnym” wnętrzem.** W surowych, ceglanych murach dawnych hal montuje się czujniki, sterowane oświetlenie i urządzenia [Servo](../frakcje/servo.md). Wygląd jest postindustrialny, a wyposażenie takie samo jak w nowych osiedlach.
 
 ## Kto tu żyje / bywa

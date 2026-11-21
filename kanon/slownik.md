@@ -6,6 +6,7 @@ status: kanon
 # Słownik
 
 - **Civitas Systems** – operator miejskiej AI; na mocy kontraktu z ratuszem zarządza kamerami, czujnikami, ruchem i energią w Mieście. → [Civitas Systems](../frakcje/civitas-systems.md)
+- **Continuum** – operator logistyczny („Zawsze w ruchu”); dzięki niemu w Mieście nic nie przestaje płynąć, więc nikt nie trzyma zapasów. (szkic) → [Continuum](../frakcje/continuum.md)
 - **Czynnik ludzki** – człowiek, który z mocy prawa nadzoruje pracę systemu AI i ponosi odpowiedzialność za jej skutki, choć samej pracy już nie wykonuje. → [Adam Korecki](../postacie/adam-korecki.md)
 - **Deskilling** – zanik umiejętności wskutek przekazania większości czynności AI i robotom. → [README](../README.md)
 - **Emigracja wewnętrzna** – ucieczka w naukę rzeczy „nieprzydatnych” (łacina, matematyka, programowanie, szachy) jako forma obrony. → [README](../README.md)
