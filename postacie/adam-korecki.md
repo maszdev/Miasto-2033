@@ -10,7 +10,7 @@ powiazania: [../miasto/olszyny.md, ../frakcje/civitas-systems.md, ../frakcje/lum
 
 ## W skrócie
 - **Wiek w 2033:** 54 lata
-- **Zajęcie:** profesor matematyki na uniwersytecie w Mieście; teoria grafów i kombinatoryka; pełnomocnik wydziału do spraw współpracy z biznesem
+- **Zajęcie:** profesor matematyki na Uniwersytecie; teoria grafów i kombinatoryka; pełnomocnik wydziału do spraw współpracy z biznesem
 - **Dzielnica:** [Olszyny](../miasto/olszyny.md), w jednym z zamkniętych zespołów Nowych Sadów
 - **Social score:** wysoki. Stabilny etat, prestiż, partnerstwa z firmami i aktywność na Lumenie, która dobrze się „klika”.
 - **Stosunek do Systemu:** lojalny i przekonany

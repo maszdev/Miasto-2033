@@ -45,7 +45,8 @@ Pełny opis jest w `README.md` i w katalogu `swiat/`. Jeśli są ze sobą sprzec
 README.md        – manifest świata (autorski)
 swiat/           – zjawiska, technologia, instytucje, historia do 2033
 miasto/          – dzielnice, miejsca, infrastruktura
-frakcje/         – korporacje, urzędy, stowarzyszenia, ruchy oporu
+frakcje/         – korporacje, stowarzyszenia, ruchy oporu (urząd tylko wtedy, gdy działa jak strona z własną agendą)
+instytucje/      – uczelnie, szkoły, urzędy, szpitale, sądy, media i inne instytucje
 postacie/        – jedna strona na postać
 historie/        – opowiadania i sceny
 artefakty/       – dokumenty ze świata (prompty, rozmowy, maile, posty), w podkatalogach według właściciela

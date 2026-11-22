@@ -24,5 +24,7 @@ status: kanon
 - **Social scoring** – algorytmiczna ocena postaw i zachowań obywateli. → [README](../README.md)
 - **Stolica** – bezimienna stolica kraju, poza Miastem. Zawsze wielką literą, bez cech wskazujących wprost na prawdziwe miasto; kraj pozostaje nienazwany. → [Adrianna Zawadzka](../postacie/adrianna-zawadzka.md)
 - **System** – zbiorcze określenie korporacji, branży IT, mediów i administracji sprawujących kontrolę. → [README](../README.md)
+- **Uniwersytet** – uniwersytet Miasta, bez dodatkowej nazwy; na nim pracuje Adam Korecki. Uczelnie publiczne mają nazwy opisowe pisane wielką literą (Uniwersytet, Uniwersytet Przyrodniczy), bez „w Mieście” i bez patronów. → [Adam Korecki](../postacie/adam-korecki.md)
+- **Uniwersytet Przyrodniczy** – dawna Akademia Rolnicza; rolnictwo, zootechnika, leśnictwo. Współpracuje z przemysłem, a zarazem uczy, jak się od niego uniezależnić. (szkic) → [Uniwersytet Przyrodniczy](../instytucje/uniwersytet-przyrodniczy.md)
 - **Wydział Kontaktu z Mieszkańcami** – komórka urzędu miasta, w której ludzie weryfikują odpowiedzi asystenta AI udzielane mieszkańcom na czacie Lumenu. → [Ida Jarosz](../postacie/ida-jarosz.md)
 - **Zgromadzenie Ciszy** – quasi-religijna wspólnota, która odrzuciła sponsorów i dąży do całkowitego wyjścia z platform. → [Zgromadzenie Ciszy](../frakcje/zgromadzenie-ciszy.md)
