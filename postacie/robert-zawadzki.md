@@ -31,7 +31,7 @@ Zaczął studia w Stolicy i tam poznał [Adriannę](../postacie/adrianna-zawadzk
 
 Do Nowych Sadów przeprowadził się, bo chciał czegoś więcej niż Kowale. Częścią tych samych aspiracji są dwie Żabki: marka, standardy i biznes, który wygląda na nowoczesny. Z czasem okazało się, że sklepy z alkoholem są stabilniejsze i łatwiej je kontrolować. Franczyza ma swój regulamin, swoje systemy i swoich audytorów. W rodzinnym sklepie zasady ustala rodzina.
 
-Starszy brat odsiaduje osiemnaście miesięcy za sprawy podatkowe. W rodzinie mówi się o tym spokojnie, jak o koszcie prowadzenia działalności. Rachunek jest prosty: brat siedzi, a rodzina finansowo wyszła na całej sprawie dobrze. System coś wykrył, ale nie wszystko.
+Starszy brat dostał osiemnaście miesięcy więzienia za sprawy podatkowe. Wyszedł wcześniej, po roku. W rodzinie mówi się o tym spokojnie, jak o koszcie prowadzenia działalności. Rachunek jest prosty: brat odsiedział swoje, a rodzina finansowo wyszła na całej sprawie dobrze. System coś wykrył, ale nie wszystko.
 
 ## Gra
 Pomnażanie majątku jest dla Roberta grą. Liczy marże, jak inni liczą punkty, a każdy nowy punkt sprzedaży to kolejny poziom. Na tym polega jego odporność: aplikacje i platformy próbują zamienić ludziom życie w grę, a Robert ma już własną i nie potrzebuje cudzej. Dlatego System ma na niego mniejszy wpływ niż na sąsiadów z Nowych Sadów.
@@ -57,19 +57,19 @@ Boi się, że kiedyś System zamknie luki, z których żyje jego rodzina. Boi si
 
 ## Słabości
 - Wszystko przelicza. Uczucia też, tylko nie zawsze o tym wie.
-- Myli brak zainteresowania z zaufaniem.
+- Swój brak zainteresowania życiem wewnętrznym żony nazywa zaufaniem.
 - Gardzi frajerami, więc nie dostrzega, w czym sam ufa Systemowi: w Kredo, w kredyt, we franczyzę.
 
 ## Sekret
-Wkład własny na mieszkanie w Nowych Sadach pochodził w części z pieniędzy, które rodzina zarobiła na sprawie, za którą siedzi brat. Brat wziął winę na siebie, tak jak ustalono. Adrianna wie, że rodzina pomogła przy zakupie mieszkania. Nie wie, skąd były te pieniądze.
+Wkład własny na mieszkanie w Nowych Sadach pochodził w części z pieniędzy, które rodzina zarobiła na sprawie, za którą siedział brat. Brat wziął winę na siebie, tak jak ustalono. Adrianna wie, że rodzina pomogła przy zakupie mieszkania. Nie wie, skąd były te pieniądze.
 
 ## Relacje
 - [Adrianna Zawadzka](../postacie/adrianna-zawadzka.md) – żona; małżeństwo, które według niego działa
 - Dzieci – córka w wieku szkolnym i czteroletni syn
 - Rodzice – prowadzą rodzinną sieć sklepów z alkoholem w Kowalach Południe
 - Siostra – w rodzinnym biznesie
-- Starszy brat – odsiaduje osiemnaście miesięcy za sprawy podatkowe
-- [Adam Korecki](../postacie/adam-korecki.md) – znajomość, którą warto utrzymywać; Robert nie okazuje mu braku szacunku
+- Starszy brat – skazany na osiemnaście miesięcy za sprawy podatkowe, wyszedł po roku
+- [Adam Korecki](../postacie/adam-korecki.md) – znajomość, którą warto utrzymywać i którą Robert traktuje czysto użytkowo; prywatnie go nie lubi
 
 ## Występuje w
 - (jeszcze nigdzie)
