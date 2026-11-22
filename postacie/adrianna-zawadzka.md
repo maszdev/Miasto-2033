@@ -1,6 +1,6 @@
 ---
 typ: postac
-status: szkic
+status: kanon
 powiazania: [../frakcje/continuum.md, ../miasto/olszyny.md, ../miasto/kowale-poludnie.md, ../postacie/adam-korecki.md, ../postacie/robert-zawadzki.md, ../artefakty/adrianna-zawadzka/prompt-finna.md]
 ---
 

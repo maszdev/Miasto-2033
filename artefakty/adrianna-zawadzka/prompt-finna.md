@@ -1,6 +1,6 @@
 ---
 typ: artefakt
-status: szkic
+status: kanon
 rodzaj: prompt
 data:         # do ustalenia
 autor: ../../postacie/adrianna-zawadzka.md

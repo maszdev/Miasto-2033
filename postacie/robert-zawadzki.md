@@ -1,6 +1,6 @@
 ---
 typ: postac
-status: szkic
+status: kanon
 powiazania: [../miasto/kowale-poludnie.md, ../miasto/olszyny.md, ../postacie/adrianna-zawadzka.md, ../postacie/adam-korecki.md, ../frakcje/kredo.md]
 ---
 
