@@ -1,7 +1,7 @@
 ---
 typ: miejsce
 status: szkic
-powiazania: [../postacie/ida-jarosz.md, ../postacie/grzegorz-pietrzak.md, ../miasto/olszyny.md, ../miasto/kowale-poludnie.md]
+powiazania: [../postacie/ida-jarosz.md, ../postacie/grzegorz-pietrzak.md, ../miasto/olszyny.md, ../miasto/kowale-poludnie.md, ../postacie/leon-kubacki.md]
 ---
 
 # Kowale Północ
@@ -19,6 +19,7 @@ Sercem dzielnicy jest duże targowisko. Z czasem postawiono przy nim hale. Targo
 ## Kto tu żyje / bywa
 - [Ida Jarosz](../postacie/ida-jarosz.md) – mieszka z rodzicami.
 - [Grzegorz Pietrzak](../postacie/grzegorz-pietrzak.md) – hydraulik, mieszka w kamienicy po rodzicach, majsterkuje w garażu w podwórku.
+- [Leon Kubacki](../postacie/leon-kubacki.md) – emerytowany dyspozytor sieci ciepłowniczej, mieszka sam w kamienicy; codziennie chodzi na targowisko.
 
 ## Szczeliny
 (do uzupełnienia)
@@ -26,3 +27,4 @@ Sercem dzielnicy jest duże targowisko. Z czasem postawiono przy nim hale. Targo
 ## Postacie i historie
 - [Ida Jarosz](../postacie/ida-jarosz.md)
 - [Grzegorz Pietrzak](../postacie/grzegorz-pietrzak.md)
+- [Leon Kubacki](../postacie/leon-kubacki.md)
