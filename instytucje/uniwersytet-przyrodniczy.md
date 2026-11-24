@@ -1,7 +1,7 @@
 ---
 typ: instytucja
 status: szkic
-powiazania: []
+powiazania: [../instytucje/uniwersytet.md]
 rodzaj: uczelnia
 wlasnosc: publiczna
 ---

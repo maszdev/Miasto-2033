@@ -1,7 +1,7 @@
 ---
 typ: postac
 status: kanon
-powiazania: [../miasto/kowale-polnoc.md, ../frakcje/lumen.md, ../frakcje/kredo.md, ../frakcje/civitas-systems.md, ../frakcje/servo.md, ../frakcje/krok-wstecz.md]
+powiazania: [../miasto/kowale-polnoc.md, ../instytucje/uniwersytet.md, ../frakcje/lumen.md, ../frakcje/kredo.md, ../frakcje/civitas-systems.md, ../frakcje/servo.md, ../frakcje/krok-wstecz.md]
 ---
 
 # Ida Jarosz
@@ -19,7 +19,7 @@ powiazania: [../miasto/kowale-polnoc.md, ../frakcje/lumen.md, ../frakcje/kredo.m
 Ubiera się porządnie, ale bez wyrazu. Mówi cicho i pełnymi zdaniami, a kiedy ktoś pisze do niej „pozdrawiam” bez przecinka, zauważa to, choć nigdy nie zwraca uwagi. Słucha uważnie i ludzie zaczynają jej opowiadać więcej, niż zamierzali. W torbie nosi ołówek i składany wycinek z gazety, który akurat czyta.
 
 ## Historia
-Wychowała się jeszcze na papierowych książkach, choć w jej szkole już ich ubywało. Na studiach socjologicznych pisała pracę o tym, jak mieszkańcy opisują swoje dzielnice w komentarzach na Lumenie. Promotor chwalił temat, a ona sama do dziś nie wie, czy praca była o ludziach, czy o algorytmie, który decydował, które komentarze widać.
+Wychowała się jeszcze na papierowych książkach, choć w jej szkole już ich ubywało. Na studiach socjologicznych na [Uniwersytecie](../instytucje/uniwersytet.md) pisała pracę o tym, jak mieszkańcy opisują swoje dzielnice w komentarzach na Lumenie. Promotor chwalił temat, a ona sama do dziś nie wie, czy praca była o ludziach, czy o algorytmie, który decydował, które komentarze widać.
 
 Do urzędu trafiła, bo to była bezpieczna posada z dobrym wpływem na wynik w [Kredo](../frakcje/kredo.md). Większość spraw mieszkańców obsługuje asystent na czacie [Lumenu](../frakcje/lumen.md). Ida czyta te odpowiedzi, które system oznaczył jako „wymagające weryfikacji”, i zatwierdza je albo poprawia. Poprawia za często. W raportach widać, że jej średni czas obsługi jest dłuższy niż u innych. Zwykle chodzi o drobiazgi: źle odmienione nazwisko, zdanie, które formalnie jest uprzejme, a w istocie zbywa, albo odpowiedź, która nie odpowiada na pytanie.
 

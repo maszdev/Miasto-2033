@@ -1,7 +1,7 @@
 ---
 typ: postac
 status: kanon
-powiazania: [../miasto/olszyny.md, ../frakcje/civitas-systems.md, ../frakcje/lumen.md, ../frakcje/kredo.md]
+powiazania: [../miasto/olszyny.md, ../instytucje/uniwersytet.md, ../frakcje/civitas-systems.md, ../frakcje/lumen.md, ../frakcje/kredo.md]
 ---
 
 # Adam Korecki
@@ -10,7 +10,7 @@ powiazania: [../miasto/olszyny.md, ../frakcje/civitas-systems.md, ../frakcje/lum
 
 ## W skrócie
 - **Wiek w 2033:** 54 lata
-- **Zajęcie:** profesor matematyki na Uniwersytecie; teoria grafów i kombinatoryka; pełnomocnik wydziału do spraw współpracy z biznesem
+- **Zajęcie:** profesor matematyki na [Uniwersytecie](../instytucje/uniwersytet.md); teoria grafów i kombinatoryka; pełnomocnik wydziału do spraw współpracy z biznesem
 - **Dzielnica:** [Olszyny](../miasto/olszyny.md), w jednym z zamkniętych zespołów Nowych Sadów
 - **Social score:** wysoki. Stabilny etat, prestiż, partnerstwa z firmami i aktywność na Lumenie, która dobrze się „klika”.
 - **Stosunek do Systemu:** lojalny i przekonany

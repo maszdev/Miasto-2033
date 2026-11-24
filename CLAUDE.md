@@ -14,6 +14,8 @@ Strona może zaczynać się akapitem od „Info dla AI”. To polecenie Autora d
 - „nie czytaj” – poza tym akapitem nie czytaj strony, nie analizuj jej i nie używaj jej treści przy budowie świata ani przy przeglądzie spójności; może zawierać informacje niezgodne ze światem,
 - przy wyszukiwaniu (grep) najpierw sprawdzaj akapit „Info dla AI”, żeby nie wczytać treści stron oznaczonych „nie czytaj”.
 
+W notatkach Autora mogą też pojawiać się wtrącenia w nawiasach kwadratowych, np. `[dla AI: wspomnij ogólnie o plusach i minusach]`. To polecenia dla Claude'a, nie treść świata: wykonaj je, ale nie przenoś ich na strony.
+
 ## Świat w skrócie
 - Rok 2033. Umysłami ludzi rządzą wielkie korporacje (określane zbiorczo jako System).
 - Powszechny deskilling: większość czynności wykonuje AI i roboty.
