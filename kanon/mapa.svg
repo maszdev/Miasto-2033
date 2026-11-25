@@ -47,12 +47,18 @@
         fill="none" stroke="#c0392b" stroke-width="5" stroke-linecap="round"/>
   <text x="768" y="150" font-size="12" fill="#c0392b" transform="rotate(70 768 150)">wschodnia obwodnica</text>
 
-  <!-- łącznik obwodnicy z autostradą, węzeł typu „trąbka” (schemat) -->
-  <path d="M790,360 L866,360" fill="none" stroke="#c0392b" stroke-width="5"/>
+  <!-- łącznik obwodnicy z autostradą: rondo na obwodnicy, węzeł typu „trąbka” przy autostradzie (schemat) -->
+  <path d="M803,360 L866,360" fill="none" stroke="#c0392b" stroke-width="5"/>
+  <!-- wjazd do magazynu z łącznika -->
+  <path d="M832,362 L832,405" fill="none" stroke="#8a5a2b" stroke-width="2.5"/>
+  <!-- rondo -->
+  <circle cx="790" cy="360" r="13" fill="#fbf8f1" stroke="#c0392b" stroke-width="4"/>
+  <circle cx="790" cy="360" r="5" fill="#d9cbb3"/>
   <path d="M866,360 C872,356 876,348 881,338" fill="none" stroke="#c0392b" stroke-width="2.5"/>
   <path d="M866,360 C872,364 875,372 878,384" fill="none" stroke="#c0392b" stroke-width="2.5"/>
   <path d="M877,382 C892,386 907,380 906,368 C905,356 890,355 878,363" fill="none" stroke="#c0392b" stroke-width="2.5"/>
-  <text x="826" y="350" font-size="10" text-anchor="middle" fill="#c0392b">węzeł</text>
+  <text x="808" y="351" font-size="10" fill="#c0392b">rondo</text>
+  <text x="892" y="352" font-size="10" fill="#c0392b">węzeł</text>
 
   <!-- największy magazyn Continuum, przy węźle -->
   <rect x="800" y="405" width="56" height="30" fill="#e2a44a" stroke="#8a5a2b" stroke-width="2"/>
@@ -72,7 +78,7 @@
     <rect x="0" y="0" width="300" height="140" fill="#fffdf8" stroke="#b9ad94"/>
     <text x="12" y="22" font-size="13" font-weight="bold">Legenda (schemat, bez skali)</text>
     <line x1="12" y1="44" x2="42" y2="44" stroke="#8a5a2b" stroke-width="7"/><text x="52" y="48">autostrada</text>
-    <line x1="12" y1="66" x2="42" y2="66" stroke="#c0392b" stroke-width="5"/><text x="52" y="70">obwodnica i łącznik z węzłem</text>
+    <line x1="12" y1="66" x2="42" y2="66" stroke="#c0392b" stroke-width="5"/><text x="52" y="70">obwodnica, rondo, łącznik, węzeł</text>
     <rect x="16" y="80" width="22" height="14" fill="#e2a44a" stroke="#8a5a2b"/><text x="52" y="91">magazyny i centra Continuum</text>
     <line x1="12" y1="110" x2="42" y2="110" stroke="#b9ad94" stroke-width="2" stroke-dasharray="8 6"/><text x="52" y="114">granica Miasta</text>
     <text x="12" y="132" fill="#7a705c" font-style="italic">Kształty dzielnic są umowne.</text>

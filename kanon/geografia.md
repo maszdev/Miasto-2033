@@ -11,8 +11,8 @@ Schematyczna mapa: [mapa.svg](mapa.svg). Kształty dzielnic i punkty postaci są
 
 ## Kraj i okolice Miasta
 - Na wschód od Miasta biegnie z północy na południe autostrada. Nie zaczyna się w Mieście, tylko je mija. Na północ prowadzi do Stolicy. (szkic)
-- Wschodnia obwodnica Miasta łączy się z autostradą łącznikiem przez węzeł typu „trąbka”, ze ślimakiem. (szkic)
-- Tuż za Miastem, niedaleko węzła wschodniej obwodnicy z autostradą, stoi największy magazyn [Continuum](../frakcje/continuum.md). (szkic)
+- Wschodnia obwodnica Miasta to dwujezdniowa droga miejska. Z autostradą łączy ją krótki łącznik: przy obwodnicy duże rondo, przy autostradzie węzeł typu „trąbka”, ze ślimakiem. (szkic)
+- Tuż za Miastem, niedaleko węzła wschodniej obwodnicy z autostradą, stoi największy magazyn [Continuum](../frakcje/continuum.md). Wjeżdża się do niego z łącznika. W szczycie na rondzie przy obwodnicy stoją w korku ciężarówki. (szkic)
 
 ## Układ Miasta
 - Kowale leżą we wschodniej części Miasta, od strony obwodnicy i magazynu Continuum. Olszyny leżą po przeciwnej stronie, na zachodnim obrzeżu. Dwa światy po dwóch stronach centrum.
