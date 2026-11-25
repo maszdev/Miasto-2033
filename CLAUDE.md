@@ -56,6 +56,7 @@ kanon/
   os-czasu.md    – chronologia (rok, wydarzenie, link)
   slownik.md     – pojęcia i nazwy własne, alfabetycznie
   geografia.md   – położenie miejsc, układ dzielnic, kto gdzie mieszka i pracuje
+  mapa.svg       – schematyczna mapa Miasta; aktualizuj tylko na prośbę Autora
 szablony/        – szablony stron (nie edytuj bez prośby)
 robocze/         – notatki robocze Autora, poza gitem (.gitignore); czytaj tylko na wyraźną prośbę
 ```

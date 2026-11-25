@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" width="960" height="720" font-family="Helvetica, Arial, sans-serif">
+  <title>Mapa Miasta (schemat)</title>
+  <defs>
+    <marker id="strzalka" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#8a5a2b"/>
+    </marker>
+  </defs>
+
+  <!-- tło -->
+  <rect width="960" height="720" fill="#fbf8f1"/>
+
+  <!-- granica Miasta (kształt umowny) -->
+  <path d="M150,170 C260,90 520,80 660,120 C760,150 770,250 760,350 C770,470 740,580 640,620 C500,670 280,660 170,590 C90,520 80,250 150,170 z"
+        fill="#f1ece0" stroke="#b9ad94" stroke-width="2" stroke-dasharray="8 6"/>
+  <text x="300" y="120" font-size="22" font-weight="bold" fill="#6b604c" letter-spacing="3">MIASTO</text>
+
+  <!-- Centrum -->
+  <circle cx="440" cy="360" r="62" fill="#e4ddcd" stroke="#a89c82" stroke-width="1.5"/>
+  <text x="440" y="366" font-size="16" text-anchor="middle" fill="#5a5040">Centrum</text>
+
+  <!-- Kowale Północ -->
+  <path d="M540,190 L700,170 L745,240 L745,345 L560,345 L530,280 z" fill="#d9cbb3" stroke="#7d6a4b" stroke-width="2"/>
+  <text x="640" y="225" font-size="17" font-weight="bold" text-anchor="middle" fill="#4a3d28">Kowale Północ</text>
+  <!-- targowisko -->
+  <rect x="595" y="262" width="34" height="22" fill="#c4ad85" stroke="#7d6a4b"/>
+  <text x="612" y="300" font-size="11" text-anchor="middle" fill="#4a3d28">targowisko</text>
+
+  <!-- Kowale Południe -->
+  <path d="M560,355 L745,355 L748,470 L700,560 L560,560 L530,450 z" fill="#c9c3b6" stroke="#5f5a4f" stroke-width="2"/>
+  <text x="640" y="395" font-size="17" font-weight="bold" text-anchor="middle" fill="#3d3a33">Kowale Południe</text>
+  <!-- centra dystrybucyjne Continuum -->
+  <rect x="660" y="470" width="22" height="16" fill="#e2a44a" stroke="#8a5a2b"/>
+  <rect x="690" y="485" width="22" height="16" fill="#e2a44a" stroke="#8a5a2b"/>
+  <rect x="655" y="500" width="22" height="16" fill="#e2a44a" stroke="#8a5a2b"/>
+  <text x="640" y="548" font-size="11" text-anchor="middle" fill="#3d3a33">centra Continuum</text>
+
+  <!-- Olszyny -->
+  <path d="M95,270 L280,250 L310,330 L295,470 L110,480 C85,420 85,330 95,270 z" fill="#dfe8d2" stroke="#6f8a55" stroke-width="2"/>
+  <text x="195" y="285" font-size="17" font-weight="bold" text-anchor="middle" fill="#3f5530">Olszyny</text>
+  <ellipse cx="200" cy="380" rx="80" ry="58" fill="#eef3e6" stroke="#6f8a55" stroke-width="1.5"/>
+  <text x="200" y="352" font-size="13" text-anchor="middle" fill="#3f5530" font-style="italic">Nowe Sady</text>
+
+  <!-- wschodnia obwodnica -->
+  <path d="M700,70 C800,140 815,250 812,360 C812,470 790,580 690,660"
+        fill="none" stroke="#c0392b" stroke-width="5" stroke-linecap="round"/>
+  <text x="808" y="150" font-size="12" fill="#c0392b" transform="rotate(68 808 150)">wschodnia obwodnica</text>
+
+  <!-- autostrada do Stolicy -->
+  <line x1="812" y1="360" x2="945" y2="360" stroke="#8a5a2b" stroke-width="7" marker-end="url(#strzalka)"/>
+  <line x1="812" y1="360" x2="938" y2="360" stroke="#fbf8f1" stroke-width="1.5" stroke-dasharray="8 6"/>
+  <text x="862" y="338" font-size="13" text-anchor="middle" fill="#8a5a2b" font-weight="bold">do Stolicy</text>
+  <text x="862" y="384" font-size="11" text-anchor="middle" fill="#8a5a2b">autostrada</text>
+  <!-- węzeł -->
+  <circle cx="812" cy="360" r="9" fill="#fff" stroke="#c0392b" stroke-width="3"/>
+
+  <!-- magazyn Continuum -->
+  <rect x="826" y="405" width="122" height="46" fill="#e2a44a" stroke="#8a5a2b" stroke-width="2"/>
+  <text x="887" y="424" font-size="11" text-anchor="middle" fill="#3d2a12" font-weight="bold">największy</text>
+  <text x="887" y="440" font-size="11" text-anchor="middle" fill="#3d2a12" font-weight="bold">magazyn Continuum</text>
+
+  <!-- postacie: miejsce w dzielnicy umowne -->
+  <g font-size="11" fill="#1f1f1f">
+    <circle cx="570" cy="315" r="5" fill="#1f4e79"/><text x="579" y="319">Ida</text>
+    <circle cx="655" cy="320" r="5" fill="#1f4e79"/><text x="664" y="324">Grzegorz</text>
+    <circle cx="690" cy="265" r="5" fill="#1f4e79"/><text x="699" y="269">Leon</text>
+
+    <circle cx="160" cy="395" r="5" fill="#1f4e79"/><text x="132" y="415">Adam</text>
+    <circle cx="222" cy="385" r="5" fill="#1f4e79"/><text x="188" y="405">Adrianna</text>
+    <circle cx="235" cy="368" r="5" fill="#1f4e79"/><text x="244" y="372">Robert</text>
+  </g>
+  <!-- Robert: „u siebie” w Kowalach Południe -->
+  <path d="M240,368 C380,460 480,480 590,470" fill="none" stroke="#1f4e79" stroke-width="1.2" stroke-dasharray="3 4"/>
+  <text x="420" y="478" font-size="11" fill="#1f4e79" font-style="italic">Robert „u siebie”</text>
+
+  <!-- róża wiatrów -->
+  <g transform="translate(905,70)">
+    <path d="M0,-28 L8,0 L0,-6 L-8,0 z" fill="#5a5040"/>
+    <path d="M0,28 L8,0 L0,6 L-8,0 z" fill="#c9bfa8"/>
+    <text x="0" y="-34" font-size="13" text-anchor="middle" fill="#5a5040" font-weight="bold">N</text>
+  </g>
+
+  <!-- legenda -->
+  <g transform="translate(30,560)" font-size="11" fill="#3d3a33">
+    <rect x="0" y="0" width="330" height="140" fill="#fffdf8" stroke="#b9ad94"/>
+    <text x="12" y="20" font-size="13" font-weight="bold">Legenda (schemat, bez skali)</text>
+    <line x1="12" y1="38" x2="42" y2="38" stroke="#c0392b" stroke-width="5"/><text x="52" y="42">obwodnica · <tspan fill="#8a5a2b">autostrada</tspan></text>
+    <rect x="16" y="50" width="22" height="14" fill="#e2a44a" stroke="#8a5a2b"/><text x="52" y="61">magazyny i centra Continuum</text>
+    <circle cx="27" cy="80" r="5" fill="#1f4e79"/><text x="52" y="84">miejsce zamieszkania postaci</text>
+    <line x1="12" y1="102" x2="42" y2="102" stroke="#b9ad94" stroke-width="2" stroke-dasharray="8 6"/><text x="52" y="106">granica Miasta</text>
+    <text x="12" y="128" fill="#7a705c" font-style="italic">Kształty dzielnic i punkty postaci są umowne.</text>
+  </g>
+</svg>

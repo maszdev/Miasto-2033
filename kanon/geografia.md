@@ -7,15 +7,18 @@ status: szkic
 
 Rejestr faktów przestrzennych: gdzie co leży i kto gdzie mieszka. Od wielkiej skali (kraj, drogi) po małą (adres postaci). Opisy miejsc są na ich stronach, tu tylko położenie i odniesienia. Nowe fakty z dopiskiem `(szkic)`.
 
+Schematyczna mapa: [mapa.svg](mapa.svg). Kształty dzielnic i punkty postaci są umowne; wiążące jest tylko to, co zapisano w tym pliku.
+
 ## Kraj i okolice Miasta
 - Z Miasta do Stolicy prowadzi autostrada.
 - Wschodnia obwodnica Miasta łączy się z autostradą do Stolicy. (szkic)
 - Tuż za Miastem, niedaleko węzła wschodniej obwodnicy z autostradą, stoi największy magazyn [Continuum](../frakcje/continuum.md). (szkic)
 
 ## Układ Miasta
+- Kowale leżą we wschodniej części Miasta, od strony obwodnicy i magazynu Continuum. Olszyny leżą po przeciwnej stronie, na zachodnim obrzeżu. Dwa światy po dwóch stronach centrum.
 - [Kowale Północ](../miasto/kowale-polnoc.md) leżą poza centrum, na północ od [Kowali Południe](../miasto/kowale-poludnie.md). Razem tworzyły kiedyś jedną robotniczo-przemysłową całość.
-- [Olszyny](../miasto/olszyny.md) to dawna podmiejska wieś, dziś dzielnica na obrzeżu Miasta, prawie w całości zajęta przez osiedle Nowe Sady.
-- Do ustalenia: położenie Olszyn względem Kowali i centrum; położenie [Uniwersytetu](../instytucje/uniwersytet.md), [Uniwersytetu Przyrodniczego](../instytucje/uniwersytet-przyrodniczy.md) i urzędu miasta.
+- [Olszyny](../miasto/olszyny.md) to dawna podmiejska wieś, dziś dzielnica na zachodnim obrzeżu Miasta, prawie w całości zajęta przez osiedle Nowe Sady.
+- Do ustalenia: położenie [Uniwersytetu](../instytucje/uniwersytet.md), [Uniwersytetu Przyrodniczego](../instytucje/uniwersytet-przyrodniczy.md) i urzędu miasta.
 
 ## Dzielnice w szczegółach
 ### Kowale Północ
