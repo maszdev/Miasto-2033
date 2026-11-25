@@ -10,8 +10,8 @@ Rejestr faktów przestrzennych: gdzie co leży i kto gdzie mieszka. Od wielkiej 
 Schematyczna mapa: [mapa.svg](mapa.svg). Kształty dzielnic i punkty postaci są umowne; wiążące jest tylko to, co zapisano w tym pliku.
 
 ## Kraj i okolice Miasta
-- Z Miasta do Stolicy prowadzi autostrada.
-- Wschodnia obwodnica Miasta łączy się z autostradą do Stolicy. (szkic)
+- Na wschód od Miasta biegnie z północy na południe autostrada. Nie zaczyna się w Mieście, tylko je mija. Na północ prowadzi do Stolicy. (szkic)
+- Wschodnia obwodnica Miasta łączy się z autostradą łącznikiem przez węzeł typu „trąbka”, ze ślimakiem. (szkic)
 - Tuż za Miastem, niedaleko węzła wschodniej obwodnicy z autostradą, stoi największy magazyn [Continuum](../frakcje/continuum.md). (szkic)
 
 ## Układ Miasta
