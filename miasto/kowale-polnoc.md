@@ -9,7 +9,7 @@ powiazania: [../postacie/ida-jarosz.md, ../postacie/grzegorz-pietrzak.md, ../mia
 > Stara robotnicza dzielnica poza centrum, w której kamienice, szopy na podwórkach i niskie bloki stoją obok siebie, a największy ruch jest na targowisku.
 
 ## Położenie i charakter
-Dzielnica leży poza centrum Miasta i ma robotniczy rodowód. Zabudowa jest niejednorodna. Starsza część to kamienice z podwórkami, na których stoją stare szopy, a trawniki są rozdeptane na skróty. Obok stoją niskie, czteropiętrowe bloki z dużymi odstępami między nimi, tak jak budowano w XX wieku.
+Dzielnica leży poza centrum Miasta, na północ od [Kowali Południe](../miasto/kowale-poludnie.md). Ma robotniczy rodowód. Zabudowa jest niejednorodna. Starsza część to kamienice z podwórkami, na których stoją stare szopy, a trawniki są rozdeptane na skróty. Obok stoją niskie, czteropiętrowe bloki z dużymi odstępami między nimi, tak jak budowano w XX wieku.
 
 Sercem dzielnicy jest duże targowisko. Z czasem postawiono przy nim hale. Targowisko wciąż wygrywa ceną ze sklepami w eleganckich galeriach handlowych.
 

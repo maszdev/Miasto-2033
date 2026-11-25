@@ -55,6 +55,7 @@ artefakty/       – dokumenty ze świata (prompty, rozmowy, maile, posty), w po
 kanon/
   os-czasu.md    – chronologia (rok, wydarzenie, link)
   slownik.md     – pojęcia i nazwy własne, alfabetycznie
+  geografia.md   – położenie miejsc, układ dzielnic, kto gdzie mieszka i pracuje
 szablony/        – szablony stron (nie edytuj bez prośby)
 robocze/         – notatki robocze Autora, poza gitem (.gitignore); czytaj tylko na wyraźną prośbę
 ```
@@ -79,7 +80,7 @@ robocze/         – notatki robocze Autora, poza gitem (.gitignore); czytaj tyl
 1. Przeczytaj `README.md`, odpowiedni szablon oraz strony, których temat dotyczy (szukaj w `kanon/slownik.md` i przez grep).
 2. Napisz stronę według szablonu, ze statusem `szkic`.
 3. Zaktualizuj powiązania w obie strony: dodaj linki zwrotne w stronach postaci, miejsc i frakcji. Wyjątek: w stronie frakcji link zwrotny do postaci dodawaj tylko wtedy, gdy postać jest dla frakcji istotna (członek, pracownik w ważnej roli, ktoś realnie wpływający na jej działanie). Samo korzystanie z usług frakcji (konto na Lumenie, wynik w Kredo, abonament Servo) zapisuj wyłącznie w polu `powiazania` postaci.
-4. Dopisz nowe pojęcia do `kanon/slownik.md`, a datowane wydarzenia do `kanon/os-czasu.md`, z dopiskiem `(szkic)`.
+4. Dopisz nowe pojęcia do `kanon/slownik.md`, datowane wydarzenia do `kanon/os-czasu.md`, a fakty przestrzenne (położenie, miejsce zamieszkania) do `kanon/geografia.md`, z dopiskiem `(szkic)`.
 5. Na końcu pokaż: listę zmienionych plików i „Nowe fakty do zatwierdzenia”.
 6. Nie rób commitów bez prośby Autora.
 

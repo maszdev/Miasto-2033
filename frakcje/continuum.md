@@ -17,6 +17,7 @@ Właśnie w tym tkwi sedno. Skoro dostawa jest zawsze, nikt nie trzyma zapasów:
 
 ## Struktura i członkowie
 - Lokalna centrala w Mieście i sieć centrów dystrybucyjnych, głównie w dawnych halach i na terenach poprzemysłowych [Kowali Południe](../miasto/kowale-poludnie.md).
+- Największy magazyn stoi tuż za Miastem, niedaleko miejsca, gdzie wschodnia obwodnica łączy się z autostradą do Stolicy.
 - Magazyny są w dużej części zrobotyzowane. Towar przenoszą roboty, a ludzie zajmują się tym, czego roboty jeszcze nie robią dobrze: nietypowymi paczkami, awariami i załadunkiem.
 - Kierowcy, kurierzy i magazynierzy pracują na zmiany. To tysiące ludzi, których czas układa AI.
 - Planowanie i logistyka: niewielki zespół ludzi, którzy formalnie zatwierdzają plany AI. Prawo wymaga, żeby ktoś za nie odpowiadał.
