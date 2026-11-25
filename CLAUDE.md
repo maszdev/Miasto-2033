@@ -36,7 +36,7 @@ Pełny opis jest w `README.md` i w katalogu `swiat/`. Jeśli są ze sobą sprzec
 - Pokazuj, nie oceniaj: świat ma bronić się sam, bez moralizowania narratora.
 - System nie jest kreskówkowo zły. Działa przez wygodę, nawyk i przyzwolenie.
 - Opór nie jest jednoznacznie dobry; postaci mają wątpliwości i koszty.
-- Droga do 2033 była stopniowa: nie wymyślaj przełomowych wydarzeń ani jednej daty „kiedy wszystko się zmieniło”, tylko drobne, banalne kroki.
+- Droga do 2033 była stopniowa: nie wymyślaj przełomowych wydarzeń ani jednej daty „kiedy wszystko się zmieniło”, tylko drobne, banalne kroki. Znak czasu to zdarzenie, w którym widać zmianę, a nie takie, które ją spowodowało. Przełomem może je nazwać ktoś w świecie (media, postacie), ale narrator wie, że to był tylko kolejny krok.
 - Korporacje mają nazwy. Występują zarówno prawdziwe firmy, jak i wymyślone (np. [Lumen](frakcje/lumen.md), [Kredo](frakcje/kredo.md)); wymyślone pojawiają się w historiach częściej.
 - System toleruje legalne stowarzyszenia samopomocy i zarabia na buncie przeciw sobie: sprzedaje uzależnienie, a potem wychodzenie z niego. Granica między autentycznym ruchem a produktem bywa niejasna.
 - Motyw przewodni, do którego warto wracać na stronach i w historiach: im bardziej wysługujemy się AI i robotami, tym mniej potrafimy zrobić bez nich. Zależność narasta po cichu i odkrywa się ją dopiero wtedy, gdy technologia zawiedzie albo trzeba z niej zrezygnować.
@@ -50,7 +50,10 @@ miasto/          – dzielnice, miejsca, infrastruktura
 frakcje/         – korporacje, stowarzyszenia, ruchy oporu (urząd tylko wtedy, gdy działa jak strona z własną agendą)
 instytucje/      – uczelnie, szkoły, urzędy, szpitale, sądy, media i inne instytucje
 postacie/        – jedna strona na postać
-historie/        – opowiadania i sceny
+historie/
+  znaki-czasu/   – zdarzenia, w których widać epokę; datowane, trafiają na oś czasu (szablon znak-czasu.md)
+  epizody/       – opowiadania, sceny, anegdoty (szablon historia.md)
+  skrawki/       – banalne fakty i odpryski wątków; jeden skrawek = jeden krótki plik (szablon skrawek.md)
 artefakty/       – dokumenty ze świata (prompty, rozmowy, maile, posty), w podkatalogach według właściciela
 kanon/
   os-czasu.md    – chronologia (rok, wydarzenie, link)
@@ -63,6 +66,7 @@ robocze/         – notatki robocze Autora, poza gitem (.gitignore); czytaj tyl
 
 ### Artefakty
 - Artefakt to dokument, który istnieje w świecie: napisała go postać albo wygenerował System. Historia (`historie/`) to narracja o świecie. Historia może cytować artefakt i do niego linkować.
+- Skrawek (`historie/skrawki/`) różni się od artefaktu tym, że nie ma właściciela ani pełnej formy dokumentu: to jedno–dwa zdania, które przetrwały jak ślad epoki (ogłoszenie, zasłyszane zdanie, linijka regulaminu). Plotki i legendy miejskie zapisuj jako skrawki ze źródłem „plotka (niepotwierdzone)”.
 - Podkatalog w `artefakty/` wybieraj według tego, do kogo artefakt należy w świecie, czyli gdzie by go znaleziono (czyj telefon, czyja skrzynka, czyje archiwum), np. `artefakty/anna-wrona/rozmowa-z-bratem.md`. Nazwa podkatalogu jest taka jak nazwa pliku postaci, miejsca lub frakcji.
 - Pozostałe zaangażowane osoby i organizacje wpisuj do pola `powiazania`.
 - Każdy artefakt ma frontmatter z szablonu `szablony/artefakt.md`, w tym datę w świecie zgodną z `kanon/os-czasu.md`.
