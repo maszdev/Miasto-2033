@@ -1,6 +1,6 @@
 ---
 typ: historia
-status: szkic
+status: kanon
 data_w_swiecie: 2033-01
 narrator: trzecioosobowy, z punktu widzenia Grzegorza
 postacie: [../../postacie/grzegorz-pietrzak.md, ../../postacie/leon-kubacki.md]

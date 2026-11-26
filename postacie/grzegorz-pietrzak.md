@@ -46,4 +46,4 @@ Pół roku temu, po trudnym miesiącu z ratą dla rodzeństwa, wysłał zgłosze
 - Rodzeństwo – współspadkobiercy mieszkania, którym spłaca udziały
 
 ## Występuje w
-- (jeszcze nigdzie)
+- [Pół obrotu w lewo](../historie/epizody/pol-obrotu-w-lewo.md) – epizod

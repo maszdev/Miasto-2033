@@ -57,4 +57,4 @@ Młody inżynier kiedyś zapytał, czy „nie zachowały się gdzieś jakieś st
 - Młody inżynier od infrastruktury – dzwoni w nocy, kiedy system nie radzi sobie z awarią; płaci gotówką, w raportach o Leonie nie wspomina
 
 ## Występuje w
-- (jeszcze nigdzie)
+- [Pół obrotu w lewo](../historie/epizody/pol-obrotu-w-lewo.md) – epizod
