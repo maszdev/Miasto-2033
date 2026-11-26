@@ -89,5 +89,10 @@ robocze/         – notatki robocze Autora, poza gitem (.gitignore); czytaj tyl
 5. Na końcu pokaż: listę zmienionych plików i „Nowe fakty do zatwierdzenia”.
 6. Nie rób commitów bez prośby Autora.
 
+### Fakty z historii i artefaktów
+- Historia albo artefakt mogą być źródłem faktu, ale fakt musi trafić tam, gdzie się go szuka. Przy zatwierdzaniu wypisz, na które strony trafią nowe fakty (postacie, miejsca, frakcje, słownik, oś czasu, geografia). Po zatwierdzeniu przenieś je tam, także na strony kanoniczne: zatwierdzenie historii obejmuje te zmiany.
+- Historie (`epizody/`, `znaki-czasu/`) mają we frontmatterze pole `streszczenie`: dwa–trzy zdania (kto, gdzie, co się dzieje, czym się kończy). Pisze je i aktualizuje Claude.
+- Na początku sesji sprawdź w gicie (`git log`, `git status`), które historie zmieniły się od commita zapisanego w `robocze/stan.md`. Porównaj je ze streszczeniami i stronami, na które trafiły ich fakty; rozbieżności zgłoś Autorowi. Potem zaktualizuj commit w `robocze/stan.md`.
+
 ## Przegląd spójności (na prośbę)
 Sprawdź: daty i wiek postaci względem osi czasu, sprzeczności między stronami, zepsute linki, strony bez linków zwrotnych, pojęcia spoza słownika. Wynik podaj jako listę z plikami i liniami.

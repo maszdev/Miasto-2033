@@ -2,6 +2,7 @@
 typ: historia
 status: kanon
 data_w_swiecie: 2033-01
+streszczenie: Styczeń, Kowale Północ. U Leona nie grzeje kaloryfer, a aplikacja zarządcy kamienicy pokazuje, że wszystko działa. Leon prowadzi Grzegorza do piwnicy, do starego zaworu na pionie, którego nie ma w żadnym systemie; po naprawie zapomina, po co Grzegorz przyszedł. System zamyka „zgłoszenie” automatycznie, a Grzegorz zapisuje położenie zaworu na tablicy w garażu i postanawia pokazać je synowi.
 narrator: trzecioosobowy, z punktu widzenia Grzegorza
 postacie: [../../postacie/grzegorz-pietrzak.md, ../../postacie/leon-kubacki.md]
 miejsca: [../../miasto/kowale-polnoc.md]

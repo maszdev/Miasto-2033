@@ -2,6 +2,7 @@
 typ: historia
 status: szkic
 data_w_swiecie: 2033-MM-DD
+streszczenie: # 2–3 zdania: kto, gdzie, co się dzieje, czym się kończy
 narrator: # pierwszoosobowy / trzecioosobowy – czyj punkt widzenia
 postacie: []
 miejsca: []

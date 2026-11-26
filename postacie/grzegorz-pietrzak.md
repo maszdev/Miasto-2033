@@ -44,6 +44,7 @@ Pół roku temu, po trudnym miesiącu z ratą dla rodzeństwa, wysłał zgłosze
 - Syn – bliska relacja; łączą ich gry komputerowe i retro komputery
 - Była żona – matka syna, z którą syn mieszka
 - Rodzeństwo – współspadkobiercy mieszkania, którym spłaca udziały
+- [Leon Kubacki](../postacie/leon-kubacki.md) – znajomy z targowiska; Grzegorz robi u niego drobne naprawy. Od Leona nauczył się, gdzie jest i jak otwierać stary zawór w jego kamienicy; zapisał to na korkowej tablicy w garażu
 
 ## Występuje w
 - [Pół obrotu w lewo](../historie/epizody/pol-obrotu-w-lewo.md) – epizod

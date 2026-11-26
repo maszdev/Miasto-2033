@@ -14,7 +14,7 @@ Dzielnica leży poza centrum Miasta, na północ od [Kowali Południe](../miasto
 Sercem dzielnicy jest duże targowisko. Z czasem postawiono przy nim hale. Targowisko wciąż wygrywa ceną ze sklepami w eleganckich galeriach handlowych.
 
 ## Jak System jest tu obecny
-(do uzupełnienia)
+- **Systemy zarządzania budynkami.** Nawet stare kamienice mają czujniki temperatury w mieszkaniach i w węzłach cieplnych, a zarządca widzi je w aplikacji jako zielone kropki na schemacie. Schematy obejmują tylko to, co ma czujniki. Starsze instalacje, zawory i przeróbki sprzed lat w nich nie istnieją. Zob. [Pół obrotu w lewo](../historie/epizody/pol-obrotu-w-lewo.md).
 
 ## Kto tu żyje / bywa
 - [Ida Jarosz](../postacie/ida-jarosz.md) – mieszka z rodzicami.

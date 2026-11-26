@@ -55,6 +55,7 @@ Młody inżynier kiedyś zapytał, czy „nie zachowały się gdzieś jakieś st
 - Żona – zmarła sześć lat temu; po jej śmierci Leon zaczął prowadzić zeszyt
 - Córka – mieszka w Stolicy; kocha ojca, opiekuje się nim na odległość przez aplikację Servo
 - Młody inżynier od infrastruktury – dzwoni w nocy, kiedy system nie radzi sobie z awarią; płaci gotówką, w raportach o Leonie nie wspomina
+- [Grzegorz Pietrzak](../postacie/grzegorz-pietrzak.md) – znają się z targowiska; Leon dzwoni do niego, kiedy coś się psuje w mieszkaniu. Pokazał mu stary zawór na pionie w piwnicy swojej kamienicy (pion kładziony w 1978), którego nie ma w aplikacji zarządcy
 
 ## Występuje w
 - [Pół obrotu w lewo](../historie/epizody/pol-obrotu-w-lewo.md) – epizod

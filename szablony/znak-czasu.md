@@ -2,6 +2,7 @@
 typ: znak-czasu
 status: szkic
 data_w_swiecie: RRRR-MM   # trafia też na oś czasu
+streszczenie: # 2–3 zdania: co się stało, kogo dotyczyło, jak to nazwano
 postacie: []
 miejsca: []
 frakcje: []
