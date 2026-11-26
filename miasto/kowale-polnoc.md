@@ -28,3 +28,4 @@ Sercem dzielnicy jest duże targowisko. Z czasem postawiono przy nim hale. Targo
 - [Ida Jarosz](../postacie/ida-jarosz.md)
 - [Grzegorz Pietrzak](../postacie/grzegorz-pietrzak.md)
 - [Leon Kubacki](../postacie/leon-kubacki.md)
+- Epizod: [Pół obrotu w lewo](../historie/epizody/pol-obrotu-w-lewo.md)
